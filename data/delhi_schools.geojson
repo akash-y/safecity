@@ -1,0 +1,3706 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-06T05:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266378530",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9a",
+        "name": "Heritage International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.166546,
+          28.5084497
+        ]
+      },
+      "id": "node/266378530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266378545",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9a",
+        "name": "Deep Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1634819,
+          28.5117155
+        ]
+      },
+      "id": "node/266378545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271335768",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1378574,
+          28.489358
+        ]
+      },
+      "id": "node/271335768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309861440",
+        "addr:postcode": "110021",
+        "addr:street": "Chandragupta Marg",
+        "amenity": "school",
+        "country": "US",
+        "name": "US Embassy School New Delhi",
+        "name:en": "US Embassy School",
+        "name:hi": "US Embassy School",
+        "phone": "+91 11 2419 8000",
+        "website": "https://in.usembassy.gov/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1824384,
+          28.5985544
+        ]
+      },
+      "id": "node/309861440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312101676",
+        "amenity": "school",
+        "name": "Delhi Public School, Primary Section"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0525305,
+          28.4295352
+        ]
+      },
+      "id": "node/312101676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312101690",
+        "amenity": "school",
+        "name": "CR Model Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0458728,
+          28.4463106
+        ]
+      },
+      "id": "node/312101690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335970186",
+        "amenity": "school",
+        "name": "Salvan Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0465147,
+          28.4636101
+        ]
+      },
+      "id": "node/335970186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477905057",
+        "amenity": "school",
+        "name": "Government Secondary School, Damdama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.123813,
+          28.3022552
+        ]
+      },
+      "id": "node/477905057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482664044",
+        "amenity": "school",
+        "name": "Stones2milestones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0783203,
+          28.4539934
+        ]
+      },
+      "id": "node/482664044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/545641483",
+        "amenity": "school",
+        "name": "Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1808404,
+          28.5978094
+        ]
+      },
+      "id": "node/545641483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/610885935",
+        "addr:housenumber": "110010",
+        "addr:street": "h/no 1/55 sadar bazar delhi cantt 10",
+        "amenity": "school",
+        "name": "New delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.122304,
+          28.5925928
+        ]
+      },
+      "id": "node/610885935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/709795355",
+        "amenity": "school",
+        "name": "Government Boys and Girls Senior Secondary School",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9877135,
+          28.6114104
+        ]
+      },
+      "id": "node/709795355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/762031791",
+        "amenity": "school",
+        "name": "Government(Bada school)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0372885,
+          28.7946905
+        ]
+      },
+      "id": "node/762031791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/883881204",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.177701,
+          28.5962679
+        ]
+      },
+      "id": "node/883881204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1116432336",
+        "amenity": "school",
+        "name": "Govt. Girls Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1842457,
+          28.573859
+        ]
+      },
+      "id": "node/1116432336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1116433509",
+        "amenity": "school",
+        "name": "DPS International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1783234,
+          28.5697886
+        ]
+      },
+      "id": "node/1116433509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1116434111",
+        "amenity": "school",
+        "name": "Jose Martin Sarvodya Vidyalya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1781517,
+          28.5712962
+        ]
+      },
+      "id": "node/1116434111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1135153755",
+        "amenity": "school",
+        "name": "Guru Harkrishan Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2466095,
+          28.5481486
+        ]
+      },
+      "id": "node/1135153755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1153089458",
+        "amenity": "school",
+        "name": "Ralli International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3756077,
+          28.644749
+        ]
+      },
+      "id": "node/1153089458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1153089833",
+        "amenity": "school",
+        "name": "DPS Indirapuram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3801246,
+          28.6457376
+        ]
+      },
+      "id": "node/1153089833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1153090437",
+        "amenity": "school",
+        "name": "DPS Indirapuram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3764446,
+          28.6475454
+        ]
+      },
+      "id": "node/1153090437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1210316392",
+        "amenity": "school",
+        "name": "Army Public School, Dhaula Kuan",
+        "wikidata": "Q4794221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1686468,
+          28.6016242
+        ]
+      },
+      "id": "node/1210316392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1363453179",
+        "addr:housename": "54, 2nd Flr, Old Ishwar Nagar, Main Mathura Road, New Friends Colony",
+        "addr:housenumber": "Above Bank of India, Near Tribhuvan Complex",
+        "addr:postcode": "110065",
+        "alt_name": "NIIT NFC",
+        "amenity": "school",
+        "name": "NIIT - New Friends Colony, South Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2667188,
+          28.5603226
+        ]
+      },
+      "id": "node/1363453179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1373657269",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0787484,
+          28.4616751
+        ]
+      },
+      "id": "node/1373657269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1374470979",
+        "amenity": "school",
+        "name": "Kendriya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0866191,
+          28.6190309
+        ]
+      },
+      "id": "node/1374470979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1374470984",
+        "addr:block": "B-2",
+        "addr:place": "Janakpuri",
+        "addr:postcode": "110058",
+        "amenity": "school",
+        "name": "Sumermal Jain Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0940113,
+          28.6300965
+        ]
+      },
+      "id": "node/1374470984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1384029750",
+        "amenity": "school",
+        "name": "American Montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.080977,
+          28.4850535
+        ]
+      },
+      "id": "node/1384029750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1390067640",
+        "amenity": "school",
+        "name": "Kamla International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0612,
+          28.418088
+        ]
+      },
+      "id": "node/1390067640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1414804440",
+        "amenity": "school",
+        "name": "Ratan Devi Girls Senior Sec. School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2799953,
+          28.6614428
+        ]
+      },
+      "id": "node/1414804440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420745420",
+        "amenity": "school",
+        "name": "St. Angels (Jr)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0651743,
+          28.4469205
+        ]
+      },
+      "id": "node/1420745420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420745423",
+        "amenity": "school",
+        "name": "St. Angels (Sr)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0695058,
+          28.4419185
+        ]
+      },
+      "id": "node/1420745423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1643999814",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "Sector 3, Phase 1",
+        "addr:postcode": "110078",
+        "addr:street": "Dwarka",
+        "amenity": "school",
+        "name": "Delhi Public School, Dwarka",
+        "operator": "Sector 3, Phase-I, Dwarka, New Delhi, Delhi 110078",
+        "phone": "+91-25074472-75",
+        "website": "http://www.dpsdwarka.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0479506,
+          28.6059739
+        ]
+      },
+      "id": "node/1643999814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656306385",
+        "amenity": "school",
+        "name": "Govt. Primary Boys School, Sidhrawali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8324001,
+          28.2662766
+        ]
+      },
+      "id": "node/1656306385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656306395",
+        "amenity": "school",
+        "name": "Govt. Primary Girls School, Sidhrawali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8338851,
+          28.2669425
+        ]
+      },
+      "id": "node/1656306395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656306397",
+        "amenity": "school",
+        "name": "Govt. Senior Secondary School, Sidhrawali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8328043,
+          28.2687959
+        ]
+      },
+      "id": "node/1656306397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656306398",
+        "amenity": "school",
+        "name": "Suman Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8335477,
+          28.2665063
+        ]
+      },
+      "id": "node/1656306398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1764307594",
+        "amenity": "school",
+        "name": "Holy Cross School",
+        "wikidata": "Q15224665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9811687,
+          28.6147687
+        ]
+      },
+      "id": "node/1764307594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1772537472",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9837474,
+          28.6182087
+        ]
+      },
+      "id": "node/1772537472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777019272",
+        "amenity": "school",
+        "name": "Krishna Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.985117,
+          28.6060798
+        ]
+      },
+      "id": "node/1777019272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1810006797",
+        "amenity": "school",
+        "name": "Mitraon Govt School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9396906,
+          28.6067575
+        ]
+      },
+      "id": "node/1810006797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1810981109",
+        "amenity": "school",
+        "name": "Ujwa Govt School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9036618,
+          28.5704851
+        ]
+      },
+      "id": "node/1810981109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1810984760",
+        "amenity": "school",
+        "name": "Govt Primary School Malik Pur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8999464,
+          28.551102
+        ]
+      },
+      "id": "node/1810984760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1811065365",
+        "amenity": "school",
+        "name": "Govt Primary School DaryaPur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9075424,
+          28.552763
+        ]
+      },
+      "id": "node/1811065365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1813898671",
+        "amenity": "school",
+        "name": "Govt Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9317444,
+          28.6024715
+        ]
+      },
+      "id": "node/1813898671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827530967",
+        "amenity": "school",
+        "name": "Mohan International School",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.366548,
+          28.6138206
+        ]
+      },
+      "id": "node/1827530967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827531816",
+        "amenity": "school",
+        "name": "Kendriya Vidhyalya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1578285,
+          28.6826588
+        ]
+      },
+      "id": "node/1827531816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1849498487",
+        "amenity": "school",
+        "name": "New Ideal Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2921488,
+          28.5467878
+        ]
+      },
+      "id": "node/1849498487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1854130790",
+        "amenity": "school",
+        "name": "school of social sciences1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1671958,
+          28.5402304
+        ]
+      },
+      "id": "node/1854130790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855407953",
+        "amenity": "school",
+        "name": "Jai Bharti Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2925361,
+          28.5464998
+        ]
+      },
+      "id": "node/1855407953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855425194",
+        "amenity": "school",
+        "name": "Disha Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2929511,
+          28.5480622
+        ]
+      },
+      "id": "node/1855425194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855425195",
+        "amenity": "school",
+        "name": "Good Samaritan Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2956047,
+          28.5464098
+        ]
+      },
+      "id": "node/1855425195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855425196",
+        "amenity": "school",
+        "name": "Jasola Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2930513,
+          28.5483522
+        ]
+      },
+      "id": "node/1855425196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855425197",
+        "amenity": "school",
+        "name": "MCD Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2940566,
+          28.5482349
+        ]
+      },
+      "id": "node/1855425197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019345544",
+        "amenity": "school",
+        "name": "Bharat Vasisht Vidya Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1285742,
+          28.4717157
+        ]
+      },
+      "id": "node/2019345544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2069261598",
+        "amenity": "school",
+        "name": "GBU School of Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.52225,
+          28.4172577
+        ]
+      },
+      "id": "node/2069261598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2069261670",
+        "amenity": "school",
+        "name": "GBU School of Information, Communication and Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5234695,
+          28.4170725
+        ]
+      },
+      "id": "node/2069261670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2133737386",
+        "amenity": "school",
+        "name": "GBU International Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5261271,
+          28.4162885
+        ]
+      },
+      "id": "node/2133737386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2133737734",
+        "amenity": "school",
+        "name": "GBU School of Biotechnology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5212464,
+          28.4191612
+        ]
+      },
+      "id": "node/2133737734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295396748",
+        "amenity": "school",
+        "name": "MCD School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.242006,
+          28.5829269
+        ]
+      },
+      "id": "node/2295396748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2384623590",
+        "amenity": "school",
+        "name": "Cambridge Primary School",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2746488,
+          28.5662292
+        ]
+      },
+      "id": "node/2384623590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2389530256",
+        "addr:postcode": "110003",
+        "addr:street": "Lodhi Estate",
+        "amenity": "school",
+        "name": "Shyama Prasad Vidyalaya",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2253633,
+          28.5968399
+        ]
+      },
+      "id": "node/2389530256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408446930",
+        "amenity": "school",
+        "name": "Delhi International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0578228,
+          28.5642198
+        ]
+      },
+      "id": "node/2408446930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408447122",
+        "amenity": "school",
+        "name": "Paramount International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0574223,
+          28.5637249
+        ]
+      },
+      "id": "node/2408447122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408447131",
+        "amenity": "school",
+        "name": "Basava International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.055416,
+          28.5648745
+        ]
+      },
+      "id": "node/2408447131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408447150",
+        "amenity": "school",
+        "name": "The Indian Heights School",
+        "wikidata": "Q16901497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0527553,
+          28.5618497
+        ]
+      },
+      "id": "node/2408447150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408447819",
+        "amenity": "school",
+        "name": "Mount Carmel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0586025,
+          28.560653
+        ]
+      },
+      "id": "node/2408447819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440643098",
+        "amenity": "school",
+        "name": "Guru Nanak Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1326211,
+          28.6699013
+        ]
+      },
+      "id": "node/2440643098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440648765",
+        "amenity": "school",
+        "name": "S M Arya Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1337166,
+          28.6721011
+        ]
+      },
+      "id": "node/2440648765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445809013",
+        "amenity": "school",
+        "name": "Vishal Bharti Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1002235,
+          28.6776074
+        ]
+      },
+      "id": "node/2445809013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445867146",
+        "amenity": "school",
+        "name": "St. Nirankari Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1072725,
+          28.676031
+        ]
+      },
+      "id": "node/2445867146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445867811",
+        "amenity": "school",
+        "name": "Rajkiya Pratibha Vikas Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1066654,
+          28.6757409
+        ]
+      },
+      "id": "node/2445867811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445868970",
+        "amenity": "school",
+        "name": "Sarvodaya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1058706,
+          28.6750003
+        ]
+      },
+      "id": "node/2445868970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445913262",
+        "amenity": "school",
+        "name": "Government Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1271291,
+          28.6739957
+        ]
+      },
+      "id": "node/2445913262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445937588",
+        "amenity": "school",
+        "name": "Sarvodaya Co-Educational School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1497669,
+          28.6692325
+        ]
+      },
+      "id": "node/2445937588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445989850",
+        "amenity": "school",
+        "name": "Government Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1658655,
+          28.6535437
+        ]
+      },
+      "id": "node/2445989850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445989851",
+        "amenity": "school",
+        "name": "Sarvodaya Kanya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1655973,
+          28.652348
+        ]
+      },
+      "id": "node/2445989851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445991452",
+        "amenity": "school",
+        "name": "Govt. Boys HB School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1660801,
+          28.6541792
+        ]
+      },
+      "id": "node/2445991452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445992231",
+        "amenity": "school",
+        "name": "DAV School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1680059,
+          28.6471225
+        ]
+      },
+      "id": "node/2445992231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446000268",
+        "amenity": "school",
+        "name": "Vidya Bhawan Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1763691,
+          28.6387283
+        ]
+      },
+      "id": "node/2446000268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446002922",
+        "amenity": "school",
+        "name": "Sindhi Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1778604,
+          28.6357621
+        ]
+      },
+      "id": "node/2446002922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446006348",
+        "amenity": "school",
+        "name": "Manav Sthali School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1782466,
+          28.6352772
+        ]
+      },
+      "id": "node/2446006348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446006877",
+        "amenity": "school",
+        "name": "Andh Kanya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1803119,
+          28.6368309
+        ]
+      },
+      "id": "node/2446006877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446009092",
+        "amenity": "school",
+        "name": "DI Khan Bharati Sabha Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1795502,
+          28.6307618
+        ]
+      },
+      "id": "node/2446009092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446009093",
+        "amenity": "school",
+        "name": "Bapu Adarsh Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1804675,
+          28.6306394
+        ]
+      },
+      "id": "node/2446009093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446010483",
+        "amenity": "school",
+        "name": "Swami Dayanand Govt. Sarvodaya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1856155,
+          28.6397954
+        ]
+      },
+      "id": "node/2446010483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446010582",
+        "amenity": "school",
+        "name": "GD Salwan Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1858677,
+          28.6403133
+        ]
+      },
+      "id": "node/2446010582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446013454",
+        "amenity": "school",
+        "name": "Salwan Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1842583,
+          28.6423613
+        ]
+      },
+      "id": "node/2446013454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2683027281",
+        "amenity": "school",
+        "name": "Bosco Sr. Sec School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0862745,
+          28.6681733
+        ]
+      },
+      "id": "node/2683027281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801370105",
+        "amenity": "school",
+        "name": "Don Bosco School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2473321,
+          28.5285072
+        ]
+      },
+      "id": "node/2801370105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833952245",
+        "amenity": "school",
+        "name": "M B Boys School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2002755,
+          28.6350118
+        ]
+      },
+      "id": "node/2833952245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833952246",
+        "amenity": "school",
+        "name": "Raisina Bengali School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2008393,
+          28.6362148
+        ]
+      },
+      "id": "node/2833952246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2852791582",
+        "amenity": "school",
+        "name": "St. Michaels Sr. Sec. School",
+        "website": "http://www.stmichaelsschoolggn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0161911,
+          28.4702663
+        ]
+      },
+      "id": "node/2852791582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892660650",
+        "amenity": "school",
+        "name": "Manav Rachna School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0588518,
+          28.4379774
+        ]
+      },
+      "id": "node/2892660650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2906769891",
+        "amenity": "school",
+        "name": "govt sec school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0327425,
+          28.4618627
+        ]
+      },
+      "id": "node/2906769891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2922268001",
+        "amenity": "school",
+        "name": "Sarvodaya Kanya Senior Secondary School",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1560501,
+          28.6896388
+        ]
+      },
+      "id": "node/2922268001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967053870",
+        "amenity": "school",
+        "name": "Saint Pauls Diocesan School",
+        "website": "http://www.stpaulsdiocesandelhi.in/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2458413,
+          28.5840004
+        ]
+      },
+      "id": "node/2967053870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3008663907",
+        "addr:city": "Hira Colony, Siraspur, Delhi",
+        "addr:postcode": "110042",
+        "addr:street": "HPR School Main Road, Hira Colony, Siraspur, Delhi",
+        "amenity": "school",
+        "name": "HIRA YOGA TRAINING KENDER",
+        "office": "educational_institution",
+        "opening_hours": "8:00-2:00",
+        "phone": "+91-9350744966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1344924,
+          28.7551761
+        ]
+      },
+      "id": "node/3008663907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3488315228",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1114558,
+          28.6927134
+        ]
+      },
+      "id": "node/3488315228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3626040478",
+        "amenity": "school",
+        "name": "Sahoday Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2002206,
+          28.5526424
+        ]
+      },
+      "id": "node/3626040478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3841328720",
+        "amenity": "school",
+        "name": "St. Peters School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3139529,
+          28.4139784
+        ]
+      },
+      "id": "node/3841328720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4047437964",
+        "amenity": "school",
+        "name": "Delhi Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1479893,
+          28.5386253
+        ]
+      },
+      "id": "node/4047437964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4120020190",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.106348,
+          28.425882
+        ]
+      },
+      "id": "node/4120020190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4154838092",
+        "amenity": "school",
+        "name": "Little Ones Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2035198,
+          28.519551
+        ]
+      },
+      "id": "node/4154838092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4180327825",
+        "amenity": "school",
+        "name": "deepak vaiyas home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1133697,
+          28.625488
+        ]
+      },
+      "id": "node/4180327825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211294503",
+        "amenity": "school",
+        "name": "jbkp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4506337,
+          28.382982
+        ]
+      },
+      "id": "node/4211294503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211294504",
+        "amenity": "school",
+        "name": "echelon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4440745,
+          28.3872703
+        ]
+      },
+      "id": "node/4211294504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4212577542",
+        "amenity": "school",
+        "name": "Chiranjiv Bharati School",
+        "operator": "Ansals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.037658,
+          28.5194596
+        ]
+      },
+      "id": "node/4212577542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213529489",
+        "addr:city": "Bijwasan",
+        "amenity": "school",
+        "name": "Swiss Cottage school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0502838,
+          28.5157955
+        ]
+      },
+      "id": "node/4213529489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220719494",
+        "amenity": "school",
+        "name": "MAAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2175752,
+          28.5692131
+        ]
+      },
+      "id": "node/4220719494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237012389",
+        "addr:postcode": "110009",
+        "amenity": "school",
+        "name": "Govt. School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2164605,
+          28.714491
+        ]
+      },
+      "id": "node/4237012389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269361827",
+        "addr:street": "Pushpanjali Enclave, Pitampura",
+        "amenity": "school",
+        "description": "CBSE Affiliated Senior Secondary School.",
+        "email": "davpushpanjali@yahoo.com",
+        "name": "DAV Public School Pushpanjali",
+        "opening_hours": "Mo-Sa 07:00-03:00",
+        "phone": "011-27010377",
+        "website": "www.davpushpanjali.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1081266,
+          28.6939915
+        ]
+      },
+      "id": "node/4269361827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4330917590",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1370459,
+          28.697473
+        ]
+      },
+      "id": "node/4330917590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338782489",
+        "addr:housenumber": "74,75",
+        "addr:postcode": "110039",
+        "addr:street": "j j colony h block",
+        "amenity": "school",
+        "email": "rhlgtm5@gmail.com",
+        "name": "Evolution dance school",
+        "name:en": "evolution dance academy",
+        "opening_hours": "Mo-Sa",
+        "operator": "Rahul Gautam",
+        "phone": "8447441469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0512991,
+          28.8032691
+        ]
+      },
+      "id": "node/4338782489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351201299",
+        "addr:postcode": "122413",
+        "addr:street": "Bilaspur Tauru Road, Bilaspur",
+        "amenity": "school",
+        "name": "Government High School, Bilaspur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8659642,
+          28.2860264
+        ]
+      },
+      "id": "node/4351201299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367444089",
+        "addr:postcode": "110072",
+        "addr:street": "Najafgarh Bahadurgarh Road",
+        "amenity": "school",
+        "name": "Dev Public School.",
+        "name:en": "Dev Public School."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9685752,
+          28.6304673
+        ]
+      },
+      "id": "node/4367444089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4383841989",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0577206,
+          28.9266187
+        ]
+      },
+      "id": "node/4383841989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406492899",
+        "amenity": "school",
+        "name:en": "GSSS Gandhra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7241864,
+          28.8286965
+        ]
+      },
+      "id": "node/4406492899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415894189",
+        "amenity": "school",
+        "name": "S.D. Public",
+        "name:en": "S.D. Public",
+        "name:hi": "S.D. Public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.169391,
+          28.6473887
+        ]
+      },
+      "id": "node/4415894189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435563990",
+        "amenity": "school",
+        "name": "FORE School of Management",
+        "name:en": "FORE School of Management",
+        "name:hi": "FORE School of Management",
+        "website": "https://www.fsm.ac.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1849245,
+          28.5370038
+        ]
+      },
+      "id": "node/4435563990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435681805",
+        "amenity": "school",
+        "name": "AVB School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3054488,
+          28.6269568
+        ]
+      },
+      "id": "node/4435681805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452896189",
+        "addr:postcode": "201314",
+        "addr:street": "NH 91",
+        "amenity": "school",
+        "name:en": "Chitthera Primary School",
+        "note": "This placed at this location after moving from the nearby road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5670195,
+          28.5399104
+        ]
+      },
+      "id": "node/4452896189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453247191",
+        "amenity": "school",
+        "name": "Modern school",
+        "name:en": "Modern school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0542962,
+          28.5788563
+        ]
+      },
+      "id": "node/4453247191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453248791",
+        "amenity": "school",
+        "name": "Venkateshwara international school",
+        "name:en": "Venkateshwara international school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0389764,
+          28.5889898
+        ]
+      },
+      "id": "node/4453248791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453268091",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0432993,
+          28.5949179
+        ]
+      },
+      "id": "node/4453268091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453301889",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0435893,
+          28.5942654
+        ]
+      },
+      "id": "node/4453301889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462856989",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9537195,
+          28.6331399
+        ]
+      },
+      "id": "node/4462856989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4483893393",
+        "amenity": "school",
+        "name": "St. Prayag school",
+        "name:en": "St. Prayag school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1168424,
+          28.6918581
+        ]
+      },
+      "id": "node/4483893393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4511556292",
+        "amenity": "school",
+        "name": "Mount abu junior branch school",
+        "name:en": "Mount abu junior branch school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1023916,
+          28.7117973
+        ]
+      },
+      "id": "node/4511556292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595766393",
+        "addr:postcode": "110010",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1176347,
+          28.5904024
+        ]
+      },
+      "id": "node/4595766393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639190772",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "Ac-Block",
+        "addr:postcode": "110088",
+        "addr:street": "Bhagwan Mahavir Marg",
+        "amenity": "school",
+        "name": "Kendrya Vidyalya",
+        "operator": "Delhi Government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.169937,
+          28.7051675
+        ]
+      },
+      "id": "node/4639190772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4682627408",
+        "addr:postcode": "122002",
+        "addr:street": "Sector-54",
+        "amenity": "school",
+        "name:en": "Suncity School",
+        "phone": "+911244845300",
+        "website": "http://www.suncityschool.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1125874,
+          28.434446
+        ]
+      },
+      "id": "node/4682627408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686210801",
+        "addr:postcode": "110049",
+        "addr:street": "Siri Fort Road",
+        "amenity": "school",
+        "name": "Gargi College",
+        "name:en": "Gargi College",
+        "operator": "University of Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218435,
+          28.555014
+        ]
+      },
+      "id": "node/4686210801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729010299",
+        "amenity": "school",
+        "name": "المدرسة العراقية",
+        "name:en": "Iraqi School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2049515,
+          28.556265
+        ]
+      },
+      "id": "node/4729010299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730129590",
+        "amenity": "school",
+        "name": "Kendriya Vidyalaya 3, Naraina",
+        "name:en": "Kendriya Vidyalaya 3, Naraina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1371836,
+          28.6168066
+        ]
+      },
+      "id": "node/4730129590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4749996424",
+        "addr:postcode": "110032",
+        "addr:street": "Idgah Road",
+        "amenity": "school",
+        "name": "Prakash Punj Vidya Sadan",
+        "name:en": "Prakash Punj Vidya Sadan",
+        "name:hi": "प्रकाश पुंज विद्या सदन",
+        "opening_hours": "Mo-Sa 08:00-13:00",
+        "shop": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2840423,
+          28.6701353
+        ]
+      },
+      "id": "node/4749996424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778391814",
+        "amenity": "school",
+        "name": "Government SChool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0591164,
+          28.5611545
+        ]
+      },
+      "id": "node/4778391814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815527622",
+        "addr:postcode": "110021",
+        "addr:street": "F Mohan Senapati Marg",
+        "amenity": "school",
+        "name:en": "N.P. Co Education Senior Secondary School",
+        "opening_hours": "Mo-Sa 09:00-15:15",
+        "operator": "NDMC",
+        "phone": "011 2688 1737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.175441,
+          28.5841578
+        ]
+      },
+      "id": "node/4815527622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897445675",
+        "amenity": "school",
+        "name": "Soveregin Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0932462,
+          28.724629
+        ]
+      },
+      "id": "node/4897445675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4934333224",
+        "amenity": "school",
+        "name": "Government school",
+        "name:en": "Government Boys Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.126039,
+          28.7369367
+        ]
+      },
+      "id": "node/4934333224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976515363",
+        "amenity": "school",
+        "name": "Bal vikash School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9009775,
+          28.7330269
+        ]
+      },
+      "id": "node/4976515363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023155725",
+        "addr:postcode": "110071",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0005244,
+          28.5654935
+        ]
+      },
+      "id": "node/5023155725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5099590622",
+        "amenity": "school",
+        "name": "Jaganath intl mngt school",
+        "name:en": "Jaganath intl mngt school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2563459,
+          28.5470179
+        ]
+      },
+      "id": "node/5099590622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122054863",
+        "amenity": "school",
+        "name": "Scottish Early Years"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3007936,
+          28.6489732
+        ]
+      },
+      "id": "node/5122054863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122593540",
+        "amenity": "school",
+        "name": "Soami Nagar Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2254741,
+          28.5440473
+        ]
+      },
+      "id": "node/5122593540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122593542",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110017",
+        "addr:street": "D Block, Panchsheel Enclave",
+        "amenity": "school",
+        "fax": "+91-011-4174-9202",
+        "name": "The Pinnacle School",
+        "phone": "+91-011-2649-0952",
+        "phone_1": "+91-011-2649-8609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2279586,
+          28.5448773
+        ]
+      },
+      "id": "node/5122593542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5128503989",
+        "amenity": "school",
+        "name": "Soami Nagar Pre-Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2257564,
+          28.543396
+        ]
+      },
+      "id": "node/5128503989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5223511422",
+        "amenity": "school",
+        "name": "Ahlcon International School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2881353,
+          28.6120628
+        ]
+      },
+      "id": "node/5223511422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5227835168",
+        "amenity": "school",
+        "name": "Ahlcon Public School",
+        "wikidata": "Q4695179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.291341,
+          28.607846
+        ]
+      },
+      "id": "node/5227835168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242148783",
+        "addr:place": "Mayur Vihar Phase - I",
+        "addr:postcode": "110091",
+        "amenity": "school",
+        "name": "Government Primary School for the Deaf",
+        "name:hi": "राजकीय प्राथमिक बधिर विद्यालय"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.287413,
+          28.6118017
+        ]
+      },
+      "id": "node/5242148783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242150470",
+        "amenity": "school",
+        "name": "School for Mentally Retarded Children",
+        "name:hi": "मानसिक बाधित बाल विद्यालय"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2876138,
+          28.6118221
+        ]
+      },
+      "id": "node/5242150470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5244000722",
+        "amenity": "school",
+        "name": "Aster Public School",
+        "phone": "91-011-2275-6999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2896107,
+          28.6096116
+        ]
+      },
+      "id": "node/5244000722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306200027",
+        "amenity": "school",
+        "name": "Mount Carmel School (Senior Wing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1652909,
+          28.5760199
+        ]
+      },
+      "id": "node/5306200027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5325526114",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1217455,
+          28.4736928
+        ]
+      },
+      "id": "node/5325526114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331324929",
+        "amenity": "school",
+        "name": "Saint Mary's Junior School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.203907,
+          28.5123981
+        ]
+      },
+      "id": "node/5331324929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338786924",
+        "addr:housenumber": "Sec-16",
+        "addr:postcode": "110089",
+        "addr:street": "G-5",
+        "amenity": "school",
+        "name": "BCC Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1193927,
+          28.7396725
+        ]
+      },
+      "id": "node/5338786924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338818321",
+        "addr:housenumber": "Sec-16",
+        "addr:postcode": "110089",
+        "addr:street": "G-5",
+        "amenity": "school",
+        "name": "Snehil Frontline Special School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1195329,
+          28.7397795
+        ]
+      },
+      "id": "node/5338818321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5342219924",
+        "amenity": "school",
+        "name": "Kids Temple Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1214922,
+          28.7385379
+        ]
+      },
+      "id": "node/5342219924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5343112121",
+        "amenity": "school",
+        "name": "Alok Bharti Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.128777,
+          28.7364974
+        ]
+      },
+      "id": "node/5343112121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358882588",
+        "amenity": "school",
+        "name": "DAV Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1727645,
+          28.5743511
+        ]
+      },
+      "id": "node/5358882588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358882593",
+        "amenity": "school",
+        "branch": "Sector - 8, Rama Krishna Puram",
+        "email": "kvsec8rkpdelhi@yahoo.com",
+        "name": "Kendriya Vidyalaya",
+        "phone": "+91-011-2617-2076",
+        "website": "www.kvsector8rkpuram.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1638274,
+          28.5721181
+        ]
+      },
+      "id": "node/5358882593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5369753821",
+        "amenity": "school",
+        "name": "MC Primary School J-Block Sec-16 Rohini",
+        "opening_hours": "Mo-Sa 08:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1306159,
+          28.7392311
+        ]
+      },
+      "id": "node/5369753821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5400420021",
+        "amenity": "school",
+        "name": "Delhi International Public School",
+        "phone": "01127055942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1291872,
+          28.7367974
+        ]
+      },
+      "id": "node/5400420021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5401477508",
+        "amenity": "school",
+        "name": "morden delhi public school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361157,
+          28.412628
+        ]
+      },
+      "id": "node/5401477508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5407719423",
+        "amenity": "school",
+        "name": "Rockfield Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1248235,
+          28.734744
+        ]
+      },
+      "id": "node/5407719423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5407772022",
+        "amenity": "school",
+        "name": "Ryan Shalom Montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1241352,
+          28.7346232
+        ]
+      },
+      "id": "node/5407772022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5409224807",
+        "amenity": "school",
+        "name": "Shemrock Little Orchids 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3682735,
+          28.3847665
+        ]
+      },
+      "id": "node/5409224807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455135886",
+        "amenity": "school",
+        "name": "Government Boys Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2335349,
+          28.5730899
+        ]
+      },
+      "id": "node/5455135886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455135976",
+        "amenity": "school",
+        "description": "Pre-primary and primary department",
+        "name": "Lady Irwin Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2359084,
+          28.5722588
+        ]
+      },
+      "id": "node/5455135976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466445621",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2329222,
+          28.6052898
+        ]
+      },
+      "id": "node/5466445621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5513273925",
+        "amenity": "school",
+        "name": "Jindal Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3305192,
+          28.6720027
+        ]
+      },
+      "id": "node/5513273925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5534195673",
+        "amenity": "school",
+        "name": "Fulwari Play School",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.32234,
+          28.659489
+        ]
+      },
+      "id": "node/5534195673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5584870727",
+        "addr:place": "Nizamuddin East",
+        "addr:postcode": "110013",
+        "amenity": "school",
+        "name": "Kaviraj Khazan Chand Quetta Dayachand Arya Vedic Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2523949,
+          28.5866396
+        ]
+      },
+      "id": "node/5584870727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5686754722",
+        "amenity": "school",
+        "name": "Holy Angels Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3652614,
+          28.6865938
+        ]
+      },
+      "id": "node/5686754722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5716534737",
+        "addr:city": "Rohtak",
+        "amenity": "school",
+        "full_name": "Harkisan Model Senior Secondary School",
+        "name": "Harkisan Model Sr. Sec. School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6163522,
+          28.8963925
+        ]
+      },
+      "id": "node/5716534737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5778514401",
+        "amenity": "school",
+        "branch": "AFS Tuglakabad",
+        "name": "Kendriya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2509251,
+          28.5116101
+        ]
+      },
+      "id": "node/5778514401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960740186",
+        "amenity": "school",
+        "name": "s6 BHIM Singh ni was"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218045,
+          28.5309957
+        ]
+      },
+      "id": "node/5960740186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960754388",
+        "amenity": "school",
+        "name": "SH Computer Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2170319,
+          28.5309108
+        ]
+      },
+      "id": "node/5960754388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960793702",
+        "amenity": "school",
+        "isced:level": "8",
+        "name": "Sant Nirankari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2177052,
+          28.535831
+        ]
+      },
+      "id": "node/5960793702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960818475",
+        "addr:housenumber": "171a",
+        "addr:street": "main Khidki road",
+        "amenity": "school",
+        "name": "Swarn public school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2185763,
+          28.5330124
+        ]
+      },
+      "id": "node/5960818475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960921887",
+        "amenity": "school",
+        "name": "swarn public school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.219553,
+          28.5332175
+        ]
+      },
+      "id": "node/5960921887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6041270054",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2281724,
+          28.5191896
+        ]
+      },
+      "id": "node/6041270054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6064406155",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5837234,
+          28.8847265
+        ]
+      },
+      "id": "node/6064406155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6071159159",
+        "addr:place": "Ghitorni",
+        "amenity": "school",
+        "name": "Government Boys Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1389634,
+          28.4899855
+        ]
+      },
+      "id": "node/6071159159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6071159494",
+        "amenity": "school",
+        "name": "Lieutenant Atul Kataria School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0337175,
+          28.4783458
+        ]
+      },
+      "id": "node/6071159494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6077096070",
+        "addr:postcode": "110002",
+        "addr:street": "Deen Dayal Upadhyay Marg",
+        "amenity": "school",
+        "branch": "Rouse Avenue",
+        "name": "Government Sarvoday Bal Vidyalaya",
+        "name:hi": "राजकीय सर्वोदय बाल विद्यालय"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2303905,
+          28.6327017
+        ]
+      },
+      "id": "node/6077096070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6081367254",
+        "addr:street": "Idgah Road",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2842459,
+          28.6707436
+        ]
+      },
+      "id": "node/6081367254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6171203022",
+        "amenity": "school",
+        "branch": "Pushp Vihar",
+        "name": "Kendriya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2239646,
+          28.5204901
+        ]
+      },
+      "id": "node/6171203022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203987732",
+        "amenity": "school",
+        "name": "SDMC Primary Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2397878,
+          28.5768012
+        ]
+      },
+      "id": "node/6203987732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203987733",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2407455,
+          28.5768608
+        ]
+      },
+      "id": "node/6203987733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207395594",
+        "addr:housenumber": "532",
+        "addr:place": "Neb Sarai",
+        "addr:postcode": "110068",
+        "addr:street": "Forest Lane",
+        "amenity": "school",
+        "name": "Saint Mary's School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2061624,
+          28.5051676
+        ]
+      },
+      "id": "node/6207395594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255913359",
+        "amenity": "school",
+        "name": "Mayur School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3369564,
+          28.5435619
+        ]
+      },
+      "id": "node/6255913359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255913360",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3025188,
+          28.5323755
+        ]
+      },
+      "id": "node/6255913360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257783817",
+        "addr:postcode": "110054",
+        "addr:street": "Lancer Road",
+        "amenity": "school",
+        "name": "Government Sarvodaya Vidyalaya",
+        "name:hi": "राजकीय सर्वोदय विद्यालय",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2159162,
+          28.6959475
+        ]
+      },
+      "id": "node/6257783817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6282682557",
+        "addr:district": "Lajpat Nagar",
+        "addr:postcode": "110024",
+        "addr:subdistrict": "Vinobapuri",
+        "amenity": "school",
+        "name": "SDMC Primary Coeducational School",
+        "name:hi": "दक्षिण दिल्ली नगर निगम प्राथमिक सह सिक्षा विद्यालाय"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.248199,
+          28.5695905
+        ]
+      },
+      "id": "node/6282682557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6341209902",
+        "amenity": "school",
+        "name": "Madarasa Millat-ul-Islam",
+        "operator": "Jama Masjid",
+        "operator:type": "religious"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.264387,
+          28.5433478
+        ]
+      },
+      "id": "node/6341209902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6362607170",
+        "amenity": "school",
+        "name": "Swami Hariharanand Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2403662,
+          28.6627534
+        ]
+      },
+      "id": "node/6362607170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395753670",
+        "amenity": "school",
+        "name": "Rajkiya Sarvodaya Bal Vidyalaya",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3185994,
+          28.6138254
+        ]
+      },
+      "id": "node/6395753670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395824661",
+        "amenity": "school",
+        "name": "Rajkiya Sarvodaya Bal Vidyalaya",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2908117,
+          28.6141186
+        ]
+      },
+      "id": "node/6395824661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6411010208",
+        "amenity": "school",
+        "operator:type": "religious",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1896796,
+          28.5238936
+        ]
+      },
+      "id": "node/6411010208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6411571311",
+        "amenity": "school",
+        "name": "Government Sarvodaya Vidyalaya",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1841549,
+          28.4588686
+        ]
+      },
+      "id": "node/6411571311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6457033186",
+        "addr:postcode": "110093",
+        "addr:street": "Wazirabad Road",
+        "amenity": "school",
+        "email": "samvadshaladehali@gmail.com",
+        "name": "Samvad Shala",
+        "name:en": "Samskritabharati",
+        "name:ru": "Школа Самскритам",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "OMGC",
+        "phone": "095603 04040",
+        "website": "https://www.samskritabharati.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3133462,
+          28.710528
+        ]
+      },
+      "id": "node/6457033186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466354706",
+        "amenity": "school",
+        "name": "Doctor APJ Abdul Kalam Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.13164,
+          28.5947474
+        ]
+      },
+      "id": "node/6466354706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6498242805",
+        "amenity": "school",
+        "name": "Indus Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3546185,
+          28.6183992
+        ]
+      },
+      "id": "node/6498242805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6729018440",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1072435,
+          28.7069273
+        ]
+      },
+      "id": "node/6729018440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6785996684",
+        "amenity": "school",
+        "operator": "SDMC",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1941669,
+          28.5622495
+        ]
+      },
+      "id": "node/6785996684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6834036204",
+        "addr:place": "Mehrauli",
+        "addr:postcode": "110030",
+        "amenity": "school",
+        "contact:email": "ramanujanskv@gmail.com",
+        "contact:phone": "+91-11-2664-4813",
+        "female": "yes",
+        "name": "Ramanujan Sarvodaya Kanya Vidyalaya",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1799665,
+          28.5231246
+        ]
+      },
+      "id": "node/6834036204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6834036228",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1773673,
+          28.5229593
+        ]
+      },
+      "id": "node/6834036228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6930339498",
+        "amenity": "school",
+        "name": "Navyug School",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2008328,
+          28.633435
+        ]
+      },
+      "id": "node/6930339498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961335189",
+        "amenity": "school",
+        "name": "Bhatnagar International School",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1540449,
+          28.5295429
+        ]
+      },
+      "id": "node/6961335189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961442936",
+        "amenity": "school",
+        "contact:phone": "+91 99687 54786;+91 99582 50186",
+        "name": "Masjid-e-Quba Madrasa Islamia",
+        "operator:type": "religious"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1899811,
+          28.5806388
+        ]
+      },
+      "id": "node/6961442936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6966287278",
+        "amenity": "school",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2134518,
+          28.5369319
+        ]
+      },
+      "id": "node/6966287278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7099861698",
+        "amenity": "school",
+        "name": "Manav Mangal Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2954384,
+          28.4986996
+        ]
+      },
+      "id": "node/7099861698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149092377",
+        "amenity": "school",
+        "name": "Darul Qur'an Madrasa Abdurrahman Tahfizul Qur'an",
+        "operator:type": "religious",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2143363,
+          28.5295756
+        ]
+      },
+      "id": "node/7149092377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7193086031",
+        "amenity": "school",
+        "contact:phone": "+91-11-2981-8763",
+        "name": "Government Coeducational Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2391399,
+          28.5762957
+        ]
+      },
+      "id": "node/7193086031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7395028895",
+        "addr:city": "delhi",
+        "addr:housenumber": "johripur",
+        "addr:postcode": "110094",
+        "addr:street": "Loni Road",
+        "amenity": "school",
+        "name": "India international secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2869559,
+          28.7172505
+        ]
+      },
+      "id": "node/7395028895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7624464956",
+        "addr:street": "AFSSR ,VAYUSENA VATIKA , Sohna Road Gurugram 122001",
+        "amenity": "school",
+        "description": "KV School",
+        "name": "Kendriya Vidyalaya No.2 Sohna Road",
+        "opening_hours": "Mo-Sa 07:45-14:00",
+        "phone": "0124-2200665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0291583,
+          28.43885
+        ]
+      },
+      "id": "node/7624464956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7636329586",
+        "amenity": "school",
+        "name": "Shaheed Captain Anuj Nayyar Government Boys Senior Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0927024,
+          28.6255941
+        ]
+      },
+      "id": "node/7636329586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7730086971",
+        "amenity": "school",
+        "name": "Kendriya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1779814,
+          28.5610558
+        ]
+      },
+      "id": "node/7730086971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8017536217",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1189585,
+          28.7117425
+        ]
+      },
+      "id": "node/8017536217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8145754251",
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "Green View Public School",
+        "operator": "Dabas Education Society",
+        "website": "www.greenviewpublicschool.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0018985,
+          28.6043448
+        ]
+      },
+      "id": "node/8145754251"
+    }
+  ]
+}

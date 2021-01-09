@@ -1,0 +1,6099 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-06T05:46:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312101689",
+        "amenity": "college",
+        "name": "Amity Global School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0632611,
+          28.433704
+        ]
+      },
+      "id": "node/312101689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/714377672",
+        "amenity": "college",
+        "name": "Jaypee Institute of Information Technology, Noida",
+        "website": "www.jiit.ac.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3720823,
+          28.6300443
+        ]
+      },
+      "id": "node/714377672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/714378268",
+        "amenity": "college",
+        "name": "Jaypee Business School, Noida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.371384,
+          28.6291951
+        ]
+      },
+      "id": "node/714378268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1116439249",
+        "amenity": "college",
+        "name": "DCAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1845461,
+          28.5778727
+        ]
+      },
+      "id": "node/1116439249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402132166",
+        "addr:street": "swami Narayan Marg, Ashok vihar",
+        "amenity": "college",
+        "name": "Laxmi Bai College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1826403,
+          28.6853049
+        ]
+      },
+      "id": "node/1402132166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1666759204",
+        "amenity": "college",
+        "name": "Indraprastha Engineering College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3399845,
+          28.6591012
+        ]
+      },
+      "id": "node/1666759204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1870030560",
+        "amenity": "college",
+        "name": "ABES engineering college",
+        "wikidata": "Q4650294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4458036,
+          28.6337977
+        ]
+      },
+      "id": "node/1870030560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2136306529",
+        "addr:housenumber": "01128520912",
+        "addr:street": "Pankha Road",
+        "amenity": "college",
+        "name": "The Institution of Electronics and Telecommunication Engineers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1006564,
+          28.6098274
+        ]
+      },
+      "id": "node/2136306529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445999512",
+        "amenity": "college",
+        "name": "National Institute of Science Technology and Development Studies - NISTDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.173365,
+          28.6384835
+        ]
+      },
+      "id": "node/2445999512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874429826",
+        "amenity": "college",
+        "name": "Regional Skill Development Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1416722,
+          28.4524063
+        ]
+      },
+      "id": "node/2874429826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874429827",
+        "amenity": "college",
+        "name": "Regional Skill Development Centre",
+        "website": "http://www.skilldevelopment.gov.in/sites/default/files/resources/initiatives/6.3%20-%20Delhi%20Singapore.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1477573,
+          28.4530389
+        ]
+      },
+      "id": "node/2874429827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940048976",
+        "amenity": "college",
+        "name": "Hindu College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2120609,
+          28.6839987
+        ]
+      },
+      "id": "node/2940048976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940048979",
+        "amenity": "college",
+        "name": "Kirorimal College",
+        "wikidata": "Q6415943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.207767,
+          28.6829806
+        ]
+      },
+      "id": "node/2940048979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940048980",
+        "amenity": "college",
+        "name": "Milranda House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2105937,
+          28.6928266
+        ]
+      },
+      "id": "node/2940048980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940048983",
+        "amenity": "college",
+        "name": "Ramjas College",
+        "wikidata": "Q7289659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2065236,
+          28.6858749
+        ]
+      },
+      "id": "node/2940048983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2958004047",
+        "amenity": "college",
+        "name": "Daulat Ram College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2057117,
+          28.6881826
+        ]
+      },
+      "id": "node/2958004047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2958012086",
+        "amenity": "college",
+        "name": "St Stephens College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211717,
+          28.6856581
+        ]
+      },
+      "id": "node/2958012086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013041255",
+        "addr:city": "Alipur, Delhi",
+        "amenity": "college",
+        "name": "Swami Sardhanand College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1406706,
+          28.7945336
+        ]
+      },
+      "id": "node/3013041255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3888057877",
+        "amenity": "college",
+        "name": "CPWD Training Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4643412,
+          28.676541
+        ]
+      },
+      "id": "node/3888057877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3909475468",
+        "amenity": "college",
+        "name": "Indraprastha Institute of Science and Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2684563,
+          28.5527332
+        ]
+      },
+      "id": "node/3909475468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4235858293",
+        "amenity": "college",
+        "name": "PDM College of Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8898603,
+          28.6875601
+        ]
+      },
+      "id": "node/4235858293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4369048916",
+        "amenity": "college",
+        "name": "Hansraj College",
+        "website": "hansrajcollege.co.in",
+        "wikidata": "Q5650641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2096965,
+          28.6791107
+        ]
+      },
+      "id": "node/4369048916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574989691",
+        "amenity": "college",
+        "name": "New Building, Faculty of Law, Delhi University",
+        "name:en": "Umang Bhavan, Faculty of Law, University of Delhi",
+        "name:hi": "उमंग भवन, विधि संकाय, दिल्ली यूनिवर्सिटी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.20989,
+          28.689878
+        ]
+      },
+      "id": "node/4574989691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591330751",
+        "amenity": "college",
+        "name": "Karmapa International Buddhist Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1841686,
+          28.5371112
+        ]
+      },
+      "id": "node/4591330751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5231968686",
+        "amenity": "college",
+        "name": "Maharaja Agrasen Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0661762,
+          28.7196184
+        ]
+      },
+      "id": "node/5231968686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5233644931",
+        "amenity": "college",
+        "name": "College of Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2381071,
+          28.6237346
+        ]
+      },
+      "id": "node/5233644931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273111163",
+        "amenity": "college",
+        "name": "P.G.D.A.V. College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2513052,
+          28.5665107
+        ]
+      },
+      "id": "node/5273111163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5343063422",
+        "amenity": "college",
+        "name": "Ojas Institute of Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1284258,
+          28.7363305
+        ]
+      },
+      "id": "node/5343063422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368614021",
+        "amenity": "college",
+        "name": "Shaheed Sukhdev College of Business Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1186337,
+          28.7325136
+        ]
+      },
+      "id": "node/5368614021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5404472122",
+        "addr:housenumber": "1",
+        "addr:postcode": "122002",
+        "addr:street": "Golf Course Extension Road",
+        "amenity": "college",
+        "name": "IILM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1028475,
+          28.4336469
+        ]
+      },
+      "id": "node/5404472122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5409197467",
+        "amenity": "college",
+        "name": "Tender Heart NGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3658672,
+          28.3859974
+        ]
+      },
+      "id": "node/5409197467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455135978",
+        "amenity": "college",
+        "name": "Dyal Singh College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2309735,
+          28.5907293
+        ]
+      },
+      "id": "node/5455135978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5516245322",
+        "addr:postcode": "110067",
+        "addr:street": "Aruna Asif Ali Marg",
+        "amenity": "college",
+        "name": "Inter University Accelerator Centre",
+        "website": "http://www.iuac.res.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1685079,
+          28.5266572
+        ]
+      },
+      "id": "node/5516245322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5648726721",
+        "addr:housenumber": "7/4",
+        "addr:postcode": "110007",
+        "addr:street": "Vishwavidyalaya Road",
+        "amenity": "college",
+        "name": "इन्क्वारी सेक्शन दिल्ली यूनिवर्सिटी",
+        "name:en": "Enquiry Section delhi university",
+        "opening_hours": "Mo-Fr 09:00-13:00,13:30-15:00; Sa-Su off",
+        "operator": "government of india",
+        "website": "http://du.ac.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.214661,
+          28.6887744
+        ]
+      },
+      "id": "node/5648726721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5847629685",
+        "addr:housenumber": "29/31",
+        "addr:postcode": "110007",
+        "addr:street": "Chhatra Marg",
+        "amenity": "college",
+        "email": "pic@clc.du.ac.in",
+        "name": "फ़ैकल्टी ऑफ़ लॉ, दिल्ली यूनिवर्सिटी",
+        "name:en": "Campus Law Centre, Faculty of Law, University of Delhi",
+        "name:hi": "विधि केन्द्र परिसर, विधि संकाय, दिल्ली यूनिवर्सिटी",
+        "opening_hours": "Mo-Sa 08:30-16:30",
+        "operator": "University of Delhi",
+        "phone": "01127667895",
+        "website": "http://clc.du.ac.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080752,
+          28.6871905
+        ]
+      },
+      "id": "node/5847629685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5998710661",
+        "addr:place": "Malviya Nagar",
+        "addr:postcode": "110017",
+        "amenity": "college",
+        "name": "Sri Aurobindo College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2042952,
+          28.5328393
+        ]
+      },
+      "id": "node/5998710661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578914188",
+        "amenity": "college",
+        "name:en": "GCAD Gateway College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0490273,
+          28.9937479
+        ]
+      },
+      "id": "node/6578914188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090309698",
+        "amenity": "college",
+        "contact:fax": "+91 11 2737 7440",
+        "contact:phone": "+91 11 2638 8920;+91 11 2920 7304;+91 11 2920 7309",
+        "contact:website": "https://dite.delhigovt.nic.in/",
+        "name": "Delhi Institute of Tool Engineering",
+        "operator:type": "public",
+        "short_name": "DITE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2706607,
+          28.5312399
+        ]
+      },
+      "id": "node/7090309698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044607594",
+        "amenity": "college",
+        "name": "Guru Nanak Institute of Higher Education",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064438,
+          29.0628558
+        ]
+      },
+      "id": "node/8044607594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228704",
+        "addr:full": "G-579, Raj Nagar-II, Behind Dada Dev Mandir Mela Ground, Sector-7, Block G, Raj Nagar II Extension, Raj Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Institute Of Fire Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0790099,
+          28.5789213
+        ]
+      },
+      "id": "node/8151228704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228705",
+        "addr:full": "University Of Delhi, University of Delhi Plot No 5, Benito Juarez Marg, South Campus, Anand Niketan, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Aryabhatta College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1621614,
+          28.5788156
+        ]
+      },
+      "id": "node/8151228705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228706",
+        "addr:full": "-A,, 35, Ring Rd, Kilokri, Maharani Bagh, Sunlight Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Best Mass Communication & Journalism College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2655679,
+          28.5785511
+        ]
+      },
+      "id": "node/8151228706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228707",
+        "addr:full": "Sector 9, Dwarka, Dwarka Institutional Area Near Metro Pillar No.1160, Dwarka Sector 9, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Trinity Institute of Professional Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0617349,
+          28.577762
+        ]
+      },
+      "id": "node/8151228707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228708",
+        "addr:full": "35, Ring Rd, Kilokri, Maharani Bagh, Sunlight Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "mass communication colleges in delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2652738,
+          28.57712
+        ]
+      },
+      "id": "node/8151228708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228709",
+        "addr:full": "63-64, 1st Floor, Tara Bhawan, Hari Nagar, Ashram Chowk, Koil Camp, Phase 2, Sunlight Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Career Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2561216,
+          28.5756659
+        ]
+      },
+      "id": "node/8151228709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228710",
+        "addr:full": "Institutional Area, Near Dwarka Sector 9 Metro Station, Sector 8 Dwarka, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Apeejay Institute of Mass Communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0699161,
+          28.5751734
+        ]
+      },
+      "id": "node/8151228710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228711",
+        "addr:full": "160-B, Western Avenue, Sainik Farms, Block E, Khanpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "WLC College India Ltd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.221648,
+          28.508688
+        ]
+      },
+      "id": "node/8151228711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228712",
+        "addr:full": "D-236, Dron Marg, Shiniwas Puri, Block D, Defence Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Nehru Homoeopathic Medical College New Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2369903,
+          28.5739953
+        ]
+      },
+      "id": "node/8151228712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228713",
+        "addr:full": "Tara Bhawan, Hari Nagar,Ashram Chowk, Hari Nagar Ashram, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Top Btech colleges in india"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.257285,
+          28.573441
+        ]
+      },
+      "id": "node/8151228713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228714",
+        "addr:full": "CBPACS Rd, Khera Dabar, Delhi,",
+        "amenity": "college",
+        "name": "Statue Chaudhary Braham Prakash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9341056,
+          28.5719205
+        ]
+      },
+      "id": "node/8151228714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228715",
+        "addr:full": "A-92-C, Namberdar Estate, Taimoor Nagar, Gurudwara Road, New Friends Colony, Navjivan Buddh Vihar, Taimoor Nagar, New Friends Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "National Institute Of Mass Communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2696502,
+          28.5713339
+        ]
+      },
+      "id": "node/8151228715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151228716",
+        "addr:full": "Block B, Defence Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Nehru Homoeopathic Medical College and Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2286748,
+          28.5711421
+        ]
+      },
+      "id": "node/8151228716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229017",
+        "addr:full": "Jain Studios Campus, Scindia Villa, Sulekha Vihar, Lekha Vihar, Sarojini Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Jag School of Transformative Skills (JSTS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.192522,
+          28.570371
+        ]
+      },
+      "id": "node/8151229017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229018",
+        "addr:full": "Gali no. 38 bhai bhai road H.No.4 near Lakshmi narayan mandir, Qutub Vihar Phase 2, Goyla Village, Delhi,",
+        "amenity": "college",
+        "name": "Indian Institute of Fine Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.027275,
+          28.570227
+        ]
+      },
+      "id": "node/8151229018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229019",
+        "addr:full": "Jain Studios Campus, Scindia Villa, Sarojini Nagar, Ring Road,, Sulekha Vihar, Lekha Vihar, Sarojini Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "NBA Group of Institutions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1926001,
+          28.5698592
+        ]
+      },
+      "id": "node/8151229019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229020",
+        "addr:full": "H-82, 1st Floor, South Ext-1, opp. Bengali Sweets, South Extension, Block H, South Extension I, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "B.ED D.ED JBT NTT NPTT South Ex. VAG INFOTECH PVT LTD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.221035,
+          28.56962
+        ]
+      },
+      "id": "node/8151229020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229021",
+        "addr:full": "BTPS Complex, Badarpur, Mathura Road, NTPC Colony, Gautampuri Awas, Badarpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "National Power Training Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3002454,
+          28.5080581
+        ]
+      },
+      "id": "node/8151229021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229022",
+        "addr:full": "A-5 A B Apartments, 13, 1st Lane Johri Farm, Jogabai Extension, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Colleges in Delhi University | Colleges of Delhi l South Campus - Uber-ed.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2836151,
+          28.5694365
+        ]
+      },
+      "id": "node/8151229022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229023",
+        "addr:full": "Near AIIMS Hospital, Ansari Nagar, Ansari Nagar West, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Vardhman Mahavir Medical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2031046,
+          28.569075
+        ]
+      },
+      "id": "node/8151229023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229024",
+        "addr:full": "E-13, South Extn Part -1,, South Extension, Block H, South Extension I, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Kuoni Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.221067,
+          28.568819
+        ]
+      },
+      "id": "node/8151229024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229025",
+        "addr:full": "Ansari Nagar East, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Aiims Examination Section"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2122721,
+          28.5683441
+        ]
+      },
+      "id": "node/8151229025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229026",
+        "addr:full": "L5, First Floor, Lajpat Nagar II, Block L, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Saroj Educational Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2467107,
+          28.5679945
+        ]
+      },
+      "id": "node/8151229026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229027",
+        "addr:full": "A-1/255, Safdarjung Enclave, Near AIIMS Metro Exit Gate No.4, Block A 1, Nauroji Nagar, Safdarjung Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "IItravel - Best Institute For Travel & Tourism Courses in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.198682,
+          28.567946
+        ]
+      },
+      "id": "node/8151229027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229028",
+        "addr:full": "VMMC & SJH,, Safdarjung Campus, Ansari Nagar West, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Old Lecture Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2046198,
+          28.5677526
+        ]
+      },
+      "id": "node/8151229028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229029",
+        "addr:full": "Top Mass Media Institute Courses in Delhi, IAAN House, C-766/1, Block C, New Friends Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "IAAN Best Journalism & Mass Communication College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2716848,
+          28.5677442
+        ]
+      },
+      "id": "node/8151229029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229030",
+        "addr:full": "A-1/226, Safdarjung Enclave, Block A 1, Nauroji Nagar, Safdarjung Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Saraswati Music College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1974831,
+          28.5673252
+        ]
+      },
+      "id": "node/8151229030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229031",
+        "addr:full": "Sri Aurobindo Marg, Ansari Nagar East, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "AIIMS Metro Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080433,
+          28.5668957
+        ]
+      },
+      "id": "node/8151229031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229032",
+        "addr:full": "Best Mass Comm Institute, Advertising and PR institute, 321, IGNOU Main Rd, Phase 2, Neb Sarai, Sainik Farm, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "DSC- Mass Communication Institute in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1992805,
+          28.5058607
+        ]
+      },
+      "id": "node/8151229032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229033",
+        "addr:full": "Gole Market, Jogabai,, Zakir Nagar Main Rd, Mehboob Nagar, Block C, Joga Bai Extension, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Indian Pacific Institute of Technology & Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.283314,
+          28.566218
+        ]
+      },
+      "id": "node/8151229033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229034",
+        "addr:full": "B-4/172, B4 Block, Safdarjung Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "SSR Medical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1972196,
+          28.5637858
+        ]
+      },
+      "id": "node/8151229034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229035",
+        "addr:full": "274-A, Al-Falah House, Jamia Nagar, Okhla, Jamia Nagar, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Al Falah School of Engineering and Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2894494,
+          28.5623804
+        ]
+      },
+      "id": "node/8151229035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229036",
+        "addr:full": "A-24, near HDFC Bank, A Block, East of Kailash, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Public College Of Competitions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2523156,
+          28.561633
+        ]
+      },
+      "id": "node/8151229036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229037",
+        "addr:full": "Jamia Millia Islamia, Jamia Nagar, Jamia Millia Islamia, Jamia Nagar, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Jamia Islamia Ignou Study Center(0707)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2825011,
+          28.5613566
+        ]
+      },
+      "id": "node/8151229037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229038",
+        "addr:full": "Institutional Area, Lajpat Nagar IV, Lajpat Nagar 4, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "South Delhi Polytechnic for Women"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2397336,
+          28.5610785
+        ]
+      },
+      "id": "node/8151229038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229039",
+        "addr:full": "Ashirwad Ashram,, Kanganheri Road, Chhawla Villagae, Chhawla, Delhi,",
+        "amenity": "college",
+        "name": "Agape Institute of Leadership Development"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00159,
+          28.5601773
+        ]
+      },
+      "id": "node/8151229039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229040",
+        "addr:full": "Jamia Millia Islamia New Delhi, Ghaffar Manzil Colony, Jamia Nagar, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Faculty of Engineering and Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.279463,
+          28.560169
+        ]
+      },
+      "id": "node/8151229040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229041",
+        "addr:full": "A-1/255, Safdarjung Enclave, B-7/Extension, Block B 7, Arjun Nagar, Safdarjung Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "International Institute of Travel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.198852,
+          28.559808
+        ]
+      },
+      "id": "node/8151229041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229042",
+        "addr:full": "Molarband, Badarpur, New Delhi, Haryana",
+        "amenity": "college",
+        "name": "BED College in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3152116,
+          28.5006897
+        ]
+      },
+      "id": "node/8151229042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229043",
+        "addr:full": "M -161/1A Gautam Nagar, Besides Axis Bank, Near Green Park Metro station Gate No.2, Yusuf Sarai, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "NRAI School of Mass Communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2075947,
+          28.559708
+        ]
+      },
+      "id": "node/8151229043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229044",
+        "addr:full": "86B, Nandi Vithi Rd, Near LSR college, N Block, Greater Kailash I, Lajpat Nagar 4, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Lady Shri Ram College for Women"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2380226,
+          28.5592948
+        ]
+      },
+      "id": "node/8151229044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229045",
+        "addr:full": "Take one house, Adjacent D-26, East of Kailash, Garhi Jharia Maria, East of Kailash, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Take One School of Mass Communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2483227,
+          28.5592409
+        ]
+      },
+      "id": "node/8151229045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229046",
+        "addr:full": "Centre for Management Studies Road, Jamia Millia Islamia, Jamia Nagar, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Centre for Management Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2810622,
+          28.5578953
+        ]
+      },
+      "id": "node/8151229046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229047",
+        "addr:full": "August Kranti Marg, Siri Fort Institutional Area, Siri Fort, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Kamala Nehru College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2168335,
+          28.5559306
+        ]
+      },
+      "id": "node/8151229047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229048",
+        "addr:full": "Siri Fort Rd, Siri Fort Institutional Area, Siri Fort, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Gargi College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2190732,
+          28.5549767
+        ]
+      },
+      "id": "node/8151229048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229049",
+        "addr:full": "August Kranti Marg, Siri Fort Institutional Area, Siri Fort, Siri Institutional Area, Siri Fort Institutional Area, Siri Fort, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Jija Bai Industrial Training Institute for women"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2145445,
+          28.5549628
+        ]
+      },
+      "id": "node/8151229049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229050",
+        "addr:full": "N-Block, Greater Kailash Part I, Zamrudpur, Greater Kailash, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "K.R Mangalam Institute of Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2374059,
+          28.554523
+        ]
+      },
+      "id": "node/8151229050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229051",
+        "addr:full": "N-148, Hari Kothi Rd, Abul Fazal Enclave, Jamia Nagar, Jasola, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sim Tech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.295866,
+          28.550576
+        ]
+      },
+      "id": "node/8151229051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229052",
+        "addr:full": "12, Kalindi Kunj Rd, Block B, Jamia Nagar, Okhla, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Zayed College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3022951,
+          28.5501051
+        ]
+      },
+      "id": "node/8151229052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229053",
+        "addr:full": "B-48 , Sudarshan Park , Mithapur Vistar , Near Gagan P. School, Molarband School Rd, Harsh Vihar, Badarpur, New Delhi, Haryana",
+        "amenity": "college",
+        "name": "Raaj Institute of Technology and Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.317856,
+          28.499655
+        ]
+      },
+      "id": "node/8151229053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229054",
+        "addr:full": "Office No 203,Building No 44, 2nd Floor, Deenar Bhawan, Nehru Place, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Institute of Clinical Research India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2505751,
+          28.549555
+        ]
+      },
+      "id": "node/8151229054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229055",
+        "addr:full": "Metro Station, Sri Krishna Chaitanya Mahaprabhu Marg, near Hauz Khas, F-4, Hauz Khas Enclave, Hauz Khas, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Institute of Home Economics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2066101,
+          28.5464206
+        ]
+      },
+      "id": "node/8151229055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229056",
+        "addr:full": "Chandiwala Estate, Maa Anandmai Marg, Near Govinpuri Metro Station, Kalkaji, Shyam Nagar, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Banarsidas Chandiwala Institute of Hotel Management and Catering Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2677624,
+          28.5445335
+        ]
+      },
+      "id": "node/8151229056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229057",
+        "addr:full": "Chandiwala Estate, Maa Anandmai Marg, Kalkaji, Shyam Nagar, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Banarsidas Chandiwala Institute of Physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2668849,
+          28.5444614
+        ]
+      },
+      "id": "node/8151229057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229058",
+        "addr:full": "Chandiwala Estate, Ma Anandmayee Marg, Shyam Nagar, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Banarsidas Chandiwala Institute of Information Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2664339,
+          28.544035
+        ]
+      },
+      "id": "node/8151229058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229059",
+        "addr:full": "Hansraj College, Deshbandhu College, Tilak Khand, Giri Nagar, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Gargi college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2633489,
+          28.5402113
+        ]
+      },
+      "id": "node/8151229059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229060",
+        "addr:full": "University of Delhi, Kalkaji Main Rd, Block H, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Deshbandhu College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.254763,
+          28.5401392
+        ]
+      },
+      "id": "node/8151229060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229061",
+        "addr:full": "Block 17, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Deshbandhu College Main Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2540975,
+          28.5400264
+        ]
+      },
+      "id": "node/8151229061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229062",
+        "addr:full": "Bal Mukund Khand, Giri Nagar, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "ANDC New Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2645564,
+          28.5397857
+        ]
+      },
+      "id": "node/8151229062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229063",
+        "addr:full": "CR Park Main Rd, Near Deshbandhu College, Block H, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Ramanujan College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2553601,
+          28.5389436
+        ]
+      },
+      "id": "node/8151229063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229064",
+        "addr:full": "A-91, First Floor, Pocket D, Okhla Phase II, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "ISLRTC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2707205,
+          28.538468
+        ]
+      },
+      "id": "node/8151229064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229065",
+        "addr:full": "Narela, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Kanya Gurukul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1024306,
+          28.8690923
+        ]
+      },
+      "id": "node/8151229065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229066",
+        "addr:full": "55-A/1, Main Bazar Rd, Rajeev Colony, Narela Mandi, Narela, Delhi,",
+        "amenity": "college",
+        "name": "Delhi College Of Engg & Medical Science"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.088339,
+          28.852284
+        ]
+      },
+      "id": "node/8151229066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229067",
+        "addr:full": "1981/2, Railway Road, Near Khalsa Furniture, Rajeev Colony, Narela Mandi, Narela, Delhi,",
+        "amenity": "college",
+        "name": "Lakshya College Of Competition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0881227,
+          28.8514012
+        ]
+      },
+      "id": "node/8151229067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229068",
+        "addr:full": "A-7, Institutional Area Near Satyawadi Raja Harish Chandra Hospital, Sector A7, Narela, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "National Institute of Technology Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1045429,
+          28.8429798
+        ]
+      },
+      "id": "node/8151229068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229069",
+        "addr:full": "Narela Mandi, Narela, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Kasturi Ram College of Higher Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0914748,
+          28.8408654
+        ]
+      },
+      "id": "node/8151229069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229070",
+        "addr:full": "Plot No. 326, Bakoli HMRITM Rd, Hamidpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "HMR Institute of Technology and Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1525269,
+          28.8237984
+        ]
+      },
+      "id": "node/8151229070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229071",
+        "addr:full": "2721, DSIDC Industrial Area, Narela, Delhi,",
+        "amenity": "college",
+        "name": "Narela ITI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1031947,
+          28.8231184
+        ]
+      },
+      "id": "node/8151229071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229072",
+        "addr:full": "G.T. Karnal Road, Victorial Palace, Nangli Poona, Bakhtawar Pur, Bakhtawar Pur Village, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Institute of Rural Development"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1718135,
+          28.8222004
+        ]
+      },
+      "id": "node/8151229072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229073",
+        "addr:full": "GT Karnal Rd, Garthi Khurad, Bakoli, Delhi,",
+        "amenity": "college",
+        "name": "NATIONAL INSTITUTE OF TECHNOLGY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.133097,
+          28.8154054
+        ]
+      },
+      "id": "node/8151229073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229074",
+        "addr:full": "Sri Aurobindo Society Campus, Shaheed Jeet Singh Marg, Adchini, Adhchini Village, Adchini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Aurobindo Centre for Arts and Communication (SACAC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1965013,
+          28.5369498
+        ]
+      },
+      "id": "node/8151229074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229075",
+        "addr:full": "Auchandi Bawana Rd, Daryapur, Bawana, Delhi,",
+        "amenity": "college",
+        "name": "Aditi Mahavidhyalya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0208295,
+          28.807126
+        ]
+      },
+      "id": "node/8151229075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229076",
+        "addr:full": "Numberdaar Marker, Near Petrol Pump, Asthal Colony, Bawana, Delhi",
+        "amenity": "college",
+        "name": "Maa Saraswati Typing College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.046301,
+          28.805465
+        ]
+      },
+      "id": "node/8151229076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229077",
+        "addr:full": "Arts Block, 2006, Main Narela Rd, Alipur Village, Delhi,",
+        "amenity": "college",
+        "name": "Swami Shraddhanand College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1402525,
+          28.7972194
+        ]
+      },
+      "id": "node/8151229077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229078",
+        "addr:full": "Holambi Khurd, Delhi,",
+        "amenity": "college",
+        "name": "Subramania Barathi College Of Science And Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0984198,
+          28.7966802
+        ]
+      },
+      "id": "node/8151229078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229079",
+        "addr:full": "Alipur, Alipur Village, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Swami Shraddhanand College Old campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1402431,
+          28.7962845
+        ]
+      },
+      "id": "node/8151229079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229080",
+        "addr:full": "Holambi Kalan Railway Station Road, Holambi Khurd Village, Delhi,",
+        "amenity": "college",
+        "name": "Delhi Institute of Rural Development"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0977509,
+          28.7956674
+        ]
+      },
+      "id": "node/8151229080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229081",
+        "addr:full": "Alipur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Swami Shraddhanand College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1403286,
+          28.7955405
+        ]
+      },
+      "id": "node/8151229081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229082",
+        "addr:full": "Auchandi Main Rd, Bawana Industrial Area, Vijay Nagar, Bawana, Delhi,",
+        "amenity": "college",
+        "name": "Aditi Mahavidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0374739,
+          28.7939418
+        ]
+      },
+      "id": "node/8151229082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229083",
+        "addr:full": "234, GT Karnal Rd, Budhpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Guru Premsukh Memorial College Of Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1409215,
+          28.7802248
+        ]
+      },
+      "id": "node/8151229083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229084",
+        "addr:full": "GT Karnal Rd, Nangli Puna, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Institute of Rural Development - DIRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1473915,
+          28.7747232
+        ]
+      },
+      "id": "node/8151229084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229085",
+        "addr:full": "E 52, Block E, Greater Kailash II, Greater Kailash, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Aesthetic Medicine and Cosmetology Courses - Clinical Cosmetology Ilamed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.240793,
+          28.536642
+        ]
+      },
+      "id": "node/8151229085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229086",
+        "addr:full": "Gramin Health Centre, Maulana Azad Medical Dispensary, Barwala, Delhi",
+        "amenity": "college",
+        "name": "Techno Computer Solution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.063642,
+          28.761886
+        ]
+      },
+      "id": "node/8151229086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229087",
+        "addr:full": "Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "DBMS LAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1169548,
+          28.7489845
+        ]
+      },
+      "id": "node/8151229087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229088",
+        "addr:full": "Delhi Technological University, Shahbad Daulatpur, Main Bawana Road, Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Delhi School of Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1170936,
+          28.7470209
+        ]
+      },
+      "id": "node/8151229088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229089",
+        "addr:full": "Get B.Ed Admission in 2019 Session: Saksham Academy, 122/16/2,, Main Road, Sant Nagar, Block B, Sant Nagar, Burari, Delhi,",
+        "amenity": "college",
+        "name": "B.Ed Institute In delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.198006,
+          28.742516
+        ]
+      },
+      "id": "node/8151229089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229090",
+        "addr:full": "C-5/21, Rama Vihar Kanjhawla, Mahaveer Vihar Colony, A305 Vijay Vihar Sector 4 Rohini, Delhi",
+        "amenity": "college",
+        "name": "NTT/PTT Course In Kanjhawla(Sriram Institute)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.012385,
+          28.738393
+        ]
+      },
+      "id": "node/8151229090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229091",
+        "addr:full": "PSP-4, Dr KN Katju Marg, Sector17, Rohini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Bhagwan Parshuram Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1120527,
+          28.7366764
+        ]
+      },
+      "id": "node/8151229091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229092",
+        "addr:full": "Main Road, Above Bank of Baroda, Mukandpur, Mukund Pur Part I, Mukund Vihar, Mukundpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "ITI Admission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1830988,
+          28.7359712
+        ]
+      },
+      "id": "node/8151229092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229093",
+        "addr:full": "568/6, Govind Puri kalka ji, Govindpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Swami Vivekanand College of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2652539,
+          28.5360014
+        ]
+      },
+      "id": "node/8151229093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229094",
+        "addr:full": "L-8, Sant Nagar Marg, Laldora, Jharoda, Jharoda Majra Burari, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "RTO Burari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1979022,
+          28.7327825
+        ]
+      },
+      "id": "node/8151229094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229095",
+        "addr:full": "1829 b, Jain Nagar, Sector 38, Rohini, set-38, Delhi",
+        "amenity": "college",
+        "name": "Choudhary0836.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0495358,
+          28.7315765
+        ]
+      },
+      "id": "node/8151229095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229096",
+        "addr:full": "9, Institutional Area, Sector 25, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Delhi School of Professional Studies And Research"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.095664,
+          28.730702
+        ]
+      },
+      "id": "node/8151229096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229097",
+        "addr:full": "Sector 15, Sector 15A, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Guru Nanak Dev Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1238065,
+          28.7290473
+        ]
+      },
+      "id": "node/8151229097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229098",
+        "addr:full": ", Station Approach Road, Metro Vihar, Shastri Park, Shahdara, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "fringe institute of advance studies budhpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1627518,
+          28.7258326
+        ]
+      },
+      "id": "node/8151229098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229099",
+        "addr:full": "pitampura, 11, Ring Rd, Block A, Ranikhet, Pitam Pura, Delhi,",
+        "amenity": "college",
+        "name": "Delhi School of Business"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1411842,
+          28.7213064
+        ]
+      },
+      "id": "node/8151229099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229100",
+        "addr:full": "B-270, 2nd Floor, North X Mall, Sector-9, Rohini, Rohini Institutional Area, Sector 5, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Noble Institute Of Management & Engineering Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.108568,
+          28.719796
+        ]
+      },
+      "id": "node/8151229100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229101",
+        "addr:full": "Ploat. No:-1148, Near Rithal Metro Station, pillar no 468 Bagga link showroom Rithala,Rohini,New Delhi:-., Rithala Extension, Rithala, Rohini, Rohini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Top Engineering College in Delhi | ACMT College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10068,
+          28.719165
+        ]
+      },
+      "id": "node/8151229101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229102",
+        "addr:full": "224, Pocket 5, Sector 22, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Maharaja Agrasen Institue of Management Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0661957,
+          28.7183364
+        ]
+      },
+      "id": "node/8151229102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229103",
+        "addr:full": "SHOP NO-04, PLOT NO-08, SAHIPUR MKT, SHALIMAR BAGH, Haiderpur, Shalimar Bagh, Delhi,",
+        "amenity": "college",
+        "name": "LUCKY EDUCATIONAL AND SOCIAL WELFARE SOCIETY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1545847,
+          28.7164134
+        ]
+      },
+      "id": "node/8151229103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229104",
+        "addr:full": "near Metro Station, Sector 6, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Dr Baba Sahib Ambedkar Medical College and Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.113525,
+          28.71491
+        ]
+      },
+      "id": "node/8151229104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229105",
+        "addr:full": "Mange Ram Park, 2/1 Main Kanjhawala Road Opp Bank Of Baroda Rohini, Block D, Mage Ram Park, Budh Vihar, Delhi,",
+        "amenity": "college",
+        "name": "Bhartiyam Digital Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0784698,
+          28.7141325
+        ]
+      },
+      "id": "node/8151229105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229106",
+        "addr:full": "A-3, Vijay Vihar, Phase-I, Sector-5, Rohini Near Krishna Vatika and Opp Rana Pratap Govt. Senior Secondary School, Sector 5, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Indraprastha College Of Advanced Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1030201,
+          28.7139664
+        ]
+      },
+      "id": "node/8151229106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229107",
+        "addr:full": "Dr Sahib Singh Verma Marg, Kanjhawala, Delhi,",
+        "amenity": "college",
+        "name": "Haryana Shakti College of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0034666,
+          28.7129278
+        ]
+      },
+      "id": "node/8151229107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229108",
+        "addr:full": "Bk-2/30, Shalimar Bagh, Shalimar Bagh, Block BC, Beri Wala Bagh, Shalimar Bagh, Delhi,",
+        "amenity": "college",
+        "name": "Anupam College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1628959,
+          28.7127377
+        ]
+      },
+      "id": "node/8151229108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229109",
+        "addr:full": "A-309, Upper Ground Floor, Vijay Vihar, Phase-1 On Sector 4-5, Dividing Road, N, Vijay vihar Phase I, Vijay Vihar, Sector 4, Rohini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sriram Institute - Nursery Teacher Training Institute In Rohini - Yoga/Dance Classes In Rohini Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1020061,
+          28.7121433
+        ]
+      },
+      "id": "node/8151229109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229110",
+        "addr:full": "C-46, Management House, Okhla Industrial Area, Phase 2, F Block, Pocket X, Okhla Phase II, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Institute of Management and Development"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.276433,
+          28.5357628
+        ]
+      },
+      "id": "node/8151229110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229111",
+        "addr:full": "Y-920 Mangolpuri A305, Vijay Vihar Phase II, Vijay Vihar, Sector 4, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Ntt/Ptt Institute In Mangolpuri(Sriram Institute)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1001785,
+          28.7113465
+        ]
+      },
+      "id": "node/8151229111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229112",
+        "addr:full": "H.O.- A1/11,, A Block, Prashant Vihar, Sector 14, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Ram Gopal College of Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.13599,
+          28.710166
+        ]
+      },
+      "id": "node/8151229112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229113",
+        "addr:full": "Ramesh Enclave, Budh Bazar Road, Opp. RK Plaza, A-94, Gali Number 4, Karan Vihar Phase V, Karan Vihar, Sultanpuri, Delhi,",
+        "amenity": "college",
+        "name": "Yukta College for Professional Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064338,
+          28.708136
+        ]
+      },
+      "id": "node/8151229113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229114",
+        "addr:full": "Y-13, Block H, Budh Vihar Phase I, Budh Vihar, Delhi,",
+        "amenity": "college",
+        "name": "Apex Future & Career College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.089401,
+          28.70807
+        ]
+      },
+      "id": "node/8151229114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229115",
+        "addr:full": "Gurgaon | B Ed from MDU | B Ed from Haryana | B.ed College - ITTP, D-12/186, IInd Floor, Near Himalaya Public School Metro Piller No. - 407, Sector 7, Rohini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "B Ed Admission in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1179541,
+          28.7080569
+        ]
+      },
+      "id": "node/8151229115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229116",
+        "addr:full": "A-4/148, opp. Mother Divine Public School, Pocket 4, Sector 4, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Aastha College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10307,
+          28.706721
+        ]
+      },
+      "id": "node/8151229116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229117",
+        "addr:full": "D11/157, Basement Opp. Metro Piller No. 388, Near Rohini East Metro Station, Rohini Sec-8, Pocket 11, Sector 8D, Rohini, Delhi,",
+        "amenity": "college",
+        "name": "Capital College Of Fine Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1271187,
+          28.7065156
+        ]
+      },
+      "id": "node/8151229117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229118",
+        "addr:full": "3, Sector 14, Madhuban Chowk PSP, Block A, Janakpuri Institutional Area, Rohini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Tecnia Institute Of Advanced Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1298428,
+          28.7060604
+        ]
+      },
+      "id": "node/8151229118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229119",
+        "addr:full": "B-7, 2nd floor, Model Town II, Near Grand Plaza, Block B, Model Town Phase I, Model Town, Delhi,",
+        "amenity": "college",
+        "name": "Mahan Institute Of Technolgies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1902796,
+          28.7049094
+        ]
+      },
+      "id": "node/8151229119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229120",
+        "addr:full": "Block T, Krishna Vihar, Block D5, Krishan Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Varun Dhaka Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0758754,
+          28.7045083
+        ]
+      },
+      "id": "node/8151229120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229121",
+        "addr:full": "ED-37A, Maduban Chowk, Near Pitampura Metro, Block ED, Dakshini Pitampura, Pitam Pura, Pitampura, Delhi",
+        "amenity": "college",
+        "name": "Community College Of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.131954,
+          28.703829
+        ]
+      },
+      "id": "node/8151229121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229122",
+        "addr:full": "C8/534, SECTOR - 8, ROHINI Near Raja Ram Mohan Roy Public School, Pocket 8, Sector 8C, Rohini, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Vidya Jyoti B.Ed College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1286068,
+          28.7035765
+        ]
+      },
+      "id": "node/8151229122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229123",
+        "addr:full": "Nangloi, Kirari Extension, Pratap Vihar, Sultanpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Pradeep Memorial Comprehensive College of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0572626,
+          28.6998815
+        ]
+      },
+      "id": "node/8151229123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229124",
+        "addr:full": "Opposite TV Tower, Guru Govind Singh College, Pitam Pura, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Guru Gobind Singh College of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1522902,
+          28.6981646
+        ]
+      },
+      "id": "node/8151229124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229125",
+        "addr:full": "69, Ground Floor, Main Ring Road Opp. G.T.B. Nagar Metro Station, Gate Number 11 Exit, Kingsway Camp, GTB Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "BBA college in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.208477,
+          28.69751
+        ]
+      },
+      "id": "node/8151229125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229126",
+        "addr:full": "TELEPHONE EXCHANGE, GT Karnal Road, NEAR SHAKTINAGAR, GT Karnal Road Industrial Area, Ashok Vihar, Bilaspur, Delhi",
+        "amenity": "college",
+        "name": "Aryabhatt Institute Of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1843862,
+          28.6971603
+        ]
+      },
+      "id": "node/8151229126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229127",
+        "addr:full": "6,gujranwala town part-2, nanak piau gurudwara road, Block A, Gujranwala Town, Delhi,",
+        "amenity": "college",
+        "name": "fashion design colleges in delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.187383,
+          28.696793
+        ]
+      },
+      "id": "node/8151229127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229128",
+        "addr:full": "C-1/16, Ashok Vihar II, Pocket C 2, Phase-2, Ashok Vihar, Delhi,",
+        "amenity": "college",
+        "name": "JROP Institute of Echocardiography"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1728989,
+          28.6964908
+        ]
+      },
+      "id": "node/8151229128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229129",
+        "addr:full": "Association of Indian Universities, Sri Aurobindo, Kotla Marg, Guru Govind Singh College, Mandi House, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Aurobindo College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.194705,
+          28.5334468
+        ]
+      },
+      "id": "node/8151229129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229130",
+        "addr:full": "D-17, Bareja Sadan, 3rd Floor, Main Mathura Road, Badarpur, Block C, Tajpur Pahari Village, Badarpur, New Delhi, Haryana",
+        "amenity": "college",
+        "name": "Delhi Degree College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.303258,
+          28.496684
+        ]
+      },
+      "id": "node/8151229130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229131",
+        "addr:full": "Phase 3, Sawan Park, Ashok Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Satyawati College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1815612,
+          28.6958571
+        ]
+      },
+      "id": "node/8151229131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229132",
+        "addr:full": "A-2, Saraswati Vihar, Block E, Saraswati Vihar, Pitam Pura, Delhi,",
+        "amenity": "college",
+        "name": "Management institute in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.127242,
+          28.695735
+        ]
+      },
+      "id": "node/8151229132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229133",
+        "addr:full": "Reids Line Delhi Univ Staff Flats, Sarup Nagar, Delhi,",
+        "amenity": "college",
+        "name": "SGTB Khalsa College Gurudwara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2082404,
+          28.6942102
+        ]
+      },
+      "id": "node/8151229133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229134",
+        "addr:full": "I-5, Prem Nagar 2nd, Kirari New Delhi, Block I, Prem Nagar I, Prem Nagar, Nangloi, Delhi",
+        "amenity": "college",
+        "name": "Pratigya Skill Development Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059592,
+          28.693943
+        ]
+      },
+      "id": "node/8151229134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229135",
+        "addr:full": "13, Central Market, Phase 1, Ashok Vihar, Delhi,",
+        "amenity": "college",
+        "name": "Noble Institute of Professional Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.171923,
+          28.6936078
+        ]
+      },
+      "id": "node/8151229135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229136",
+        "addr:full": "Block L, Mangolpuri S Block, Delhi,",
+        "amenity": "college",
+        "name": "V-Tech Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0855364,
+          28.6932911
+        ]
+      },
+      "id": "node/8151229136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229137",
+        "addr:full": "University of Delhi, 5 Cavalry Lines University of Delhi, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "School of Open Learning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212945,
+          28.693176
+        ]
+      },
+      "id": "node/8151229137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229138",
+        "addr:full": "M.Ed, JBT, Ph.D Admission Open 2019 NIPS, 13 Central Market, Ashok Vihar Phase 1 Rd, Pocket C, Ashok Vihar, Delhi,",
+        "amenity": "college",
+        "name": "B.Ed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.168089,
+          28.692482
+        ]
+      },
+      "id": "node/8151229138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229139",
+        "addr:full": "24, GT Karnal Rd, Gurdwara Nanak Piao Campus, Kirpal Bagh, Gujranwala Town, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Shri Guru Tegh Bahadur Institute of Management and Information Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.191316,
+          28.69245
+        ]
+      },
+      "id": "node/8151229139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229140",
+        "addr:full": "163a/2b, Khirki Main Rd, Khirki Extension, Block J, Khidki Village, Malviya Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Woman polytechnic College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188586,
+          28.5330919
+        ]
+      },
+      "id": "node/8151229140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229141",
+        "addr:full": "University of Delhi, University of Delhi North Campus Vishvavidalaya Marg, GC Narang Road, Delhi,",
+        "amenity": "college",
+        "name": "Cluster Innovation Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.213165,
+          28.6922448
+        ]
+      },
+      "id": "node/8151229141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229142",
+        "addr:full": "Media & IT, G-23 Ground Floor, NDM-1 Netaji Subhash Place(NSP Pitampura Near Netaji Subhash Place Metro Station, Netaji Subhash Place, Wazirpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "International Institute of Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1507699,
+          28.6907569
+        ]
+      },
+      "id": "node/8151229142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229143",
+        "addr:full": "University of Delhi, GC Narang Road, University Enclave, Delhi,",
+        "amenity": "college",
+        "name": "Delhi School Of Journalism"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2141745,
+          28.6907182
+        ]
+      },
+      "id": "node/8151229143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229144",
+        "addr:full": "Delhi University, Vijay Nagar Marg, Art Faculty, University Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Vallabhbhai Patel Chest Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.20994,
+          28.6906371
+        ]
+      },
+      "id": "node/8151229144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229145",
+        "addr:full": "38/4, Chhatra Marg, Faculty of Science, University Enclave, Delhi,",
+        "amenity": "college",
+        "name": "Faculty of Science - Delhi University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108335,
+          28.6904277
+        ]
+      },
+      "id": "node/8151229145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229146",
+        "addr:full": "University of Delhi, Maurice Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Shri Ram College of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2067803,
+          28.6904062
+        ]
+      },
+      "id": "node/8151229146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229147",
+        "addr:full": "University Of Delhi, University Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Shri Ram College of Commerce (SRCC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2066388,
+          28.6899256
+        ]
+      },
+      "id": "node/8151229147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229148",
+        "addr:full": "Near, Zone H-4/5, Sainik Vihar, Pitam Pura, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Keshav Mahavidyalaya (University Of Delhi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1201701,
+          28.6877547
+        ]
+      },
+      "id": "node/8151229148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229149",
+        "addr:full": "University of Delhi, College of Vocational Studies, Triveni, J Pocket, Phase II, Sheikh Sarai, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "College of Vocational Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2274608,
+          28.533076
+        ]
+      },
+      "id": "node/8151229149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229150",
+        "addr:full": "Rohtak Rd, West Cabin Block, Mundka, Delhi,",
+        "amenity": "college",
+        "name": "M.R. BHARTI COLLEGE OF EDUCATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0328712,
+          28.685397
+        ]
+      },
+      "id": "node/8151229150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229151",
+        "addr:full": "Sudhir Bose Marg, University Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "St Stephens College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2135174,
+          28.6850044
+        ]
+      },
+      "id": "node/8151229151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229152",
+        "addr:full": "University Enclave, Delhi School Of Economics, University Enclave, Delhi,",
+        "amenity": "college",
+        "name": "Delhi School of Economics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2083662,
+          28.6847905
+        ]
+      },
+      "id": "node/8151229152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229153",
+        "addr:full": "414/2, Rani Khera More Near Mundka Metro Station, Veena Enclave, Mundka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "IIA Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0266127,
+          28.6845589
+        ]
+      },
+      "id": "node/8151229153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229154",
+        "addr:full": "Sudhir Bose Marg, Hindu College, University Enclave, Delhi,",
+        "amenity": "college",
+        "name": "Hindu College University Of Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211083,
+          28.684343
+        ]
+      },
+      "id": "node/8151229154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229155",
+        "addr:full": "Malka Ganj Road, Delhi School Of Economics, University Enclave, Delhi,",
+        "amenity": "college",
+        "name": "Department Of Geography"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080826,
+          28.6843053
+        ]
+      },
+      "id": "node/8151229155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229156",
+        "addr:full": "Gate No:2, Tahirpur Rd, GTB Enclave, Dilshad Garden, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "University College Of Medical Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3099119,
+          28.6833511
+        ]
+      },
+      "id": "node/8151229156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229157",
+        "addr:full": "536, First Floor, Main Rohtak Road, Opp. Metro Pillar No. 374, Nangloi Chowk, Block X, JJ Colony No 3, Nangloi, Delhi,",
+        "amenity": "college",
+        "name": "Infowave College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.068722,
+          28.682431
+        ]
+      },
+      "id": "node/8151229157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229158",
+        "addr:full": "College of Vocational Studies,, Phase II, Sheikh Sarai, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "New Buildings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2264748,
+          28.532727
+        ]
+      },
+      "id": "node/8151229158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229159",
+        "addr:full": "20, Rohtak Rd, Rajendra Park, Nangloi Extension, Nangloi, Delhi,",
+        "amenity": "college",
+        "name": "M.R.C College Of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.053635,
+          28.681882
+        ]
+      },
+      "id": "node/8151229159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229160",
+        "addr:full": "E-38, First Floor , KAMLA NAGAR, Block G, Kamla Nagar, Delhi,",
+        "amenity": "college",
+        "name": "BEST BBA COLLEGE IN DELHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2033938,
+          28.6817689
+        ]
+      },
+      "id": "node/8151229160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229161",
+        "addr:full": "First Floor Taneja Complex, Rohtak Rd, Opp. Nangloi Metro Station NANGLOI, Dharam Colony, Nangloi Extension, Nangloi, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Maharshi Institute Of Science"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064214,
+          28.6814924
+        ]
+      },
+      "id": "node/8151229161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229162",
+        "addr:full": "Near Krishna Mandir, Main Najafgarh Road, Nangloi - Najafgarh Rd, Block 4 ABC, Nangloi Extension, Nangloi, Delhi,",
+        "amenity": "college",
+        "name": "Saraswati Commercial College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0668468,
+          28.6810468
+        ]
+      },
+      "id": "node/8151229162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229163",
+        "addr:full": "31, Sham Nath Marg, Civil Lines, Delhi,",
+        "amenity": "college",
+        "name": "Indraprastha College for Women - University Of Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2245552,
+          28.6805487
+        ]
+      },
+      "id": "node/8151229163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229164",
+        "addr:full": "124/2, Nangloi - Najafgarh Rd, Saini Mohalla, Block G, Nangloi Extension, Nangloi, Delhi,",
+        "amenity": "college",
+        "name": "B.Tech Admission - Top Engineering College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.066317,
+          28.680403
+        ]
+      },
+      "id": "node/8151229164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229165",
+        "addr:full": "Plot No. 975, Khasra No. 298, Metro Pillar No. 506- 507, Near Hanuman Mandir, Mundka, Saini Vihar, Gauri Shankar Enclave, Mundka, Delhi,",
+        "amenity": "college",
+        "name": "Delhi College of Fire Safety Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0324049,
+          28.6800273
+        ]
+      },
+      "id": "node/8151229165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229166",
+        "addr:full": "183, 1st Floor, Rohtak Rd, Ekta Enclave, Peeragarhi Village, Peera Garhi, Delhi,",
+        "amenity": "college",
+        "name": "Manav Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.093765,
+          28.679344
+        ]
+      },
+      "id": "node/8151229166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229167",
+        "addr:full": "FC-26, Panduk Shila Marg, Shastri Park, Shahdara, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Dr. Akhilesh Das Gupta Institute of Technology & Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2611304,
+          28.6778623
+        ]
+      },
+      "id": "node/8151229167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229168",
+        "addr:full": "Ghummanhera, Delhi,",
+        "amenity": "college",
+        "name": "DIET Ghumanhera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9163423,
+          28.5325334
+        ]
+      },
+      "id": "node/8151229168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229169",
+        "addr:full": "Aplomb India House, Building No 16 Avtar Enclave, No 229, Rohtak Rd, opp. Metro Pillar Number 461, Avtar Enclave, Paschim Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Aplomb India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1064776,
+          28.6777956
+        ]
+      },
+      "id": "node/8151229169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229170",
+        "addr:full": "Mundka Rd, Mundka Village, Bakkarwala, Delhi,",
+        "amenity": "college",
+        "name": "Marathwada Institute Of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0250479,
+          28.6744052
+        ]
+      },
+      "id": "node/8151229170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229171",
+        "addr:full": "487/64 Ist Floor, Peera Garhi, Peeragarhi Village, Paschim Vihar, Delhi,",
+        "amenity": "college",
+        "name": "Jan Shikshan Sansthan West Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0900479,
+          28.6741122
+        ]
+      },
+      "id": "node/8151229171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229172",
+        "addr:full": "Block B, Shastri Nagar, Delhi,",
+        "amenity": "college",
+        "name": "Indian Institute of Polymer Science"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1801331,
+          28.673867
+        ]
+      },
+      "id": "node/8151229172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229173",
+        "addr:full": "श्यामा प्रसाद मुखर्जी महाविद्यालय, West Punjabi Bagh, Punjabi Bagh, Delhi,",
+        "amenity": "college",
+        "name": "Shyama Prasad Mukherji College for Women (Girls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.127542,
+          28.6728586
+        ]
+      },
+      "id": "node/8151229173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229174",
+        "addr:full": "4-A, Raj Niwas Marg, Ludlow Castle, Civil Lines, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Vidya Jyoti College of Theology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2216223,
+          28.6724029
+        ]
+      },
+      "id": "node/8151229174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229175",
+        "addr:full": "East Punjabi Bagh, Saraswti Bal Vidyalaya, Jaidev Park, East Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "TN College Of Competition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1493747,
+          28.6719866
+        ]
+      },
+      "id": "node/8151229175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229176",
+        "addr:full": "Plot No: 11, Central Market, Delhi, West Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Chaitanya Junior College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.134473,
+          28.671049
+        ]
+      },
+      "id": "node/8151229176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229177",
+        "addr:full": "B- 214, Okhla Industrial Area Phase-1, Pocket W, Okhla Phase II, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "St. Thomas College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2765567,
+          28.5317061
+        ]
+      },
+      "id": "node/8151229177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229178",
+        "addr:full": "Achievers library, Manohar Park, Block D, East Punjabi Bagh, Punjabi Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Bed MDU Main Admission Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1554492,
+          28.6709835
+        ]
+      },
+      "id": "node/8151229178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229179",
+        "addr:full": "Vir Banda Bairagi Marg, Near PNB, Block E2, Shastri Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Institute of Technology & Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1781504,
+          28.6708591
+        ]
+      },
+      "id": "node/8151229179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229180",
+        "addr:full": "Dhanvantari Bhavan, Rd Number 66, West Punjabi Bagh, Punjabi Bagh, NEW DELHI, Delhi",
+        "amenity": "college",
+        "name": "Rashtriya Ayurveda Vidyapeeth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1256344,
+          28.6706787
+        ]
+      },
+      "id": "node/8151229180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229181",
+        "addr:full": "A-2/109, Police Colony, A 3 Block, Paschim Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Dr. Rachna Grover Academy for Humanities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.106916,
+          28.669879
+        ]
+      },
+      "id": "node/8151229181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229182",
+        "addr:full": "8A/8, WEA, Karol Bagh, West Punjabi Bagh, Delhi,",
+        "amenity": "college",
+        "name": "R K College of Systems & Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1216961,
+          28.6669253
+        ]
+      },
+      "id": "node/8151229182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229183",
+        "addr:full": "B.Ed, CTET JBT DIET, DED DELD M.Ed, 6/203, opposite GH-9, near GURUSHARAN CONVENT SCHOOL, Block 6, Sunder Vihar, Paschim Vihar, Delhi,",
+        "amenity": "college",
+        "name": "EDUVEDA SKILLS -Best Teachers Training Institute Delhi for NTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0873043,
+          28.6644645
+        ]
+      },
+      "id": "node/8151229183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229184",
+        "addr:full": "Baba Karam Singh Marg, Phase 1, Block B 1, New Moti Nagar, Moti Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Life Care Institute Of Allied Health Science And Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1429142,
+          28.663953
+        ]
+      },
+      "id": "node/8151229184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229185",
+        "addr:full": "Kashmere Gate, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Dharmasangh Sanskrit Mahavidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2387333,
+          28.6632883
+        ]
+      },
+      "id": "node/8151229185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229186",
+        "addr:full": "649, Hamilton Rd, Chhota Bazar, South Indian Madrasi Colony, Old Delhi, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Aryabhatta College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.227395,
+          28.661897
+        ]
+      },
+      "id": "node/8151229186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229187",
+        "addr:full": "Ajmal Khan Rd, Block 56, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Ayurvedic and Unani Tibbia College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1951767,
+          28.6558387
+        ]
+      },
+      "id": "node/8151229187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229188",
+        "addr:full": "Career House4, East Park Road, Master Prithvinath Marg, Sidipura, Karol Bagh, Sidipura, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "The Institution of Civil Engineers (India)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2010478,
+          28.6558176
+        ]
+      },
+      "id": "node/8151229188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229189",
+        "addr:full": "Guru Ravi Das Marg, Block 4, Dev Nagar, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Guru Nanak Dev Khalsa College(University Of Delhi) Karol bagh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1877816,
+          28.6548997
+        ]
+      },
+      "id": "node/8151229189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229190",
+        "addr:full": "Mahatma Gandhi Marg, Block C, Raja Garden, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Rajdhani College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1260042,
+          28.6548469
+        ]
+      },
+      "id": "node/8151229190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229191",
+        "addr:full": "Pocket GN, Shivaji Enclave, Tagore Garden Extension, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "IGNOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1191126,
+          28.654613
+        ]
+      },
+      "id": "node/8151229191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229192",
+        "addr:full": "UG-02, Dubai International Academic City, Charkhe Walan, Chandni Chowk, Ghaziabad, Delhi",
+        "amenity": "college",
+        "name": "Institute Of Management Technology Dubai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2347674,
+          28.6536944
+        ]
+      },
+      "id": "node/8151229192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229193",
+        "addr:full": "New Ranjit Colony, Ranjeet Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "govt boys senior secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1631448,
+          28.653251
+        ]
+      },
+      "id": "node/8151229193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229194",
+        "addr:full": "Street Number 1,H.No 6347, Block 7, , Dev Nagar, Karol Bagh, Block 7B, Dev Nagar, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "brilliant college of commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.182892,
+          28.65268
+        ]
+      },
+      "id": "node/8151229194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229195",
+        "addr:full": "15/24, Munshi Ram Sethi Marg, Block 15, West Patel Nagar, Patel Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Wadhwa College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1664885,
+          28.6512474
+        ]
+      },
+      "id": "node/8151229195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229196",
+        "addr:full": "Bazar Sirkiwalan, Chhoti Baradari, Chandni Chowk, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "D.ed delhi admission center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2266052,
+          28.6509358
+        ]
+      },
+      "id": "node/8151229196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229197",
+        "addr:full": "Tank Rd, Nehru Nagar, Dev Nagar, Malka Ganj, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "North DMC medical college and Hindu Rao Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1826679,
+          28.6503737
+        ]
+      },
+      "id": "node/8151229197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229198",
+        "addr:full": "LAXMINAGAR METRO STATION, Block 35M, Beadonpura, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "DEI Study Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1938239,
+          28.6497599
+        ]
+      },
+      "id": "node/8151229198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229199",
+        "addr:full": "8, Patel Road, West Patel Nagar, Block 1, West Patel Nagar, Patel Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Linkers India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1617816,
+          28.64971
+        ]
+      },
+      "id": "node/8151229199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229200",
+        "addr:full": "Nabi Karim Rd, Aram Nagar, Paharganj, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "DoubleA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212698,
+          28.649179
+        ]
+      },
+      "id": "node/8151229200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229201",
+        "addr:full": "H.O. 29, South Patel Nagar, Near Bus Stand, Block 8, East Patel Nagar, Patel Nagar, Delhi,",
+        "amenity": "college",
+        "name": "Sachdva New PT College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.167191,
+          28.64855
+        ]
+      },
+      "id": "node/8151229201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229202",
+        "addr:full": "Block A, Rajouri Gardenn, Delhi",
+        "amenity": "college",
+        "name": "nursery teacher training institute- Diecce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.122317,
+          28.648481
+        ]
+      },
+      "id": "node/8151229202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229203",
+        "addr:full": "( Indian Institute of Industrial Engineering) DELHI CHAPTER, 15/457, Guru Ravidas Marg, DDA Flats Kalkaji, Harijan Colony, Block C, Kalkaji, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "IIIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2572444,
+          28.5303923
+        ]
+      },
+      "id": "node/8151229203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229204",
+        "addr:full": "Arya Samaj Rd, Block 17, WEA, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Arya Girls College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.195088,
+          28.646621
+        ]
+      },
+      "id": "node/8151229204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229205",
+        "addr:full": "Delhi Press Building, E 3, Jhandewalan, Rani Jhasi Road, Block E 4, Jhandewalan Extension, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "MassCoMedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2043688,
+          28.6456292
+        ]
+      },
+      "id": "node/8151229205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229206",
+        "addr:full": "7850- Arakashan Road ,Behind Sheila Cinema, Pahar Ganj, Arya Nagar, Paharganj, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Best Tours and Travels Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2174042,
+          28.6451927
+        ]
+      },
+      "id": "node/8151229206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229207",
+        "addr:full": "8A/8, W.E.A, Karol Bagh New Delh,, Rajendra Place. Exit from Gate No. 2 Turn left from Pillar# P131, Block 9A, WEA, Karol Bagh, Delhi,",
+        "amenity": "college",
+        "name": "Mass Communication College - RKFMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.185181,
+          28.644859
+        ]
+      },
+      "id": "node/8151229207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229208",
+        "addr:full": "2ND FLOOR,PLOT NO.17 ROAD NO.34, Pusa Rd, Block 8, WEA, Karol Bagh, Delhi,",
+        "amenity": "college",
+        "name": "AKBAR ACADEMY OF AIRLINES STUDIES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1913372,
+          28.6446381
+        ]
+      },
+      "id": "node/8151229208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229209",
+        "addr:full": "8A/8, W.E.A., Karol Bagh, Block 8A, WEA, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Mass Communication Colleges in Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.182124,
+          28.644397
+        ]
+      },
+      "id": "node/8151229209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229210",
+        "addr:full": "Ansari Rd, Daryaganj, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "District Institute of Education and Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.243973,
+          28.644281
+        ]
+      },
+      "id": "node/8151229210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229211",
+        "addr:full": "25b, Pusa Rd, Block 11, Old Rajinder Nagar, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "S N Das Gupta College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.185794,
+          28.643357
+        ]
+      },
+      "id": "node/8151229211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229212",
+        "addr:full": "22-B, Ground Floor,Opp Metro Pillar 112, Delhi, Pusa Rd, Block 1, WEA, Karol Bagh, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Chaitanya IAS Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1865104,
+          28.6432669
+        ]
+      },
+      "id": "node/8151229212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229213",
+        "addr:full": "University of Delhi, Press Enclave Marg, J Pocket, Triveni, Sheikh Sarai, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "College Of Vocational Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2089851,
+          28.52729
+        ]
+      },
+      "id": "node/8151229213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229214",
+        "addr:full": "Sir Ganga Ram Hospital Marg, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Janki Devi Memorial College Rajinder Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1916048,
+          28.6420028
+        ]
+      },
+      "id": "node/8151229214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229215",
+        "addr:full": "18, Canara Bank Quarters, Block 35, Rajendra Park, Rajinder Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Institute of Neurosciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1786191,
+          28.6414843
+        ]
+      },
+      "id": "node/8151229215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229216",
+        "addr:full": "New Guru Hari Kishan Nagar, Nilothi Extn, Nilothi, Delhi,",
+        "amenity": "college",
+        "name": "IFA - COLLEGE INDIAN FEMALE ACADEMY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0598223,
+          28.6411222
+        ]
+      },
+      "id": "node/8151229216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229217",
+        "addr:full": "Khera Tour and Travels, Basant Rd, Bagichi Ramchander, Kaseru Walan, Paharganj, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Maana Inter College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2174364,
+          28.6410243
+        ]
+      },
+      "id": "node/8151229217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229218",
+        "addr:full": "24/4834, Ansari Road, Daryaganj, Daryaganj, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Daulat Ram College Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2454524,
+          28.6408826
+        ]
+      },
+      "id": "node/8151229218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229219",
+        "addr:full": "R-551, Shankar Rd, Pocket R, Rajender Nagar Part 2, New Rajinder Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "TKWs Institute of Banking & Finance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.176626,
+          28.640232
+        ]
+      },
+      "id": "node/8151229219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229220",
+        "addr:full": "128 Outer Ring Road Vardhan Market, Block JG 1, Vikaspuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "SDM College of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.081617,
+          28.640084
+        ]
+      },
+      "id": "node/8151229220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229221",
+        "addr:full": "Krishi Kunj, Inder Puri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Ded Admission Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1457527,
+          28.6393356
+        ]
+      },
+      "id": "node/8151229221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229222",
+        "addr:full": "120-B, behind Local Shopping Center, Madangir Village, Madangir, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Madhubala Institute of Communication and Electronic Media"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2327468,
+          28.5250859
+        ]
+      },
+      "id": "node/8151229222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229223",
+        "addr:full": "C-79/6, Om Nagar, Gagan Vihar, Mithapur Extension, Badarpur, New Delhi, Haryana",
+        "amenity": "college",
+        "name": "Simpathy Institute Of Homoeopathic Pharmacy & Paramedical Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3285082,
+          28.4948284
+        ]
+      },
+      "id": "node/8151229223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229224",
+        "addr:full": "Pusa, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "CESCRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1617745,
+          28.6393278
+        ]
+      },
+      "id": "node/8151229224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229225",
+        "addr:full": "Phase-1, D Block, Vikaspuri, Delhi,",
+        "amenity": "college",
+        "name": "Trinity Institute of Higher Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0639594,
+          28.6386636
+        ]
+      },
+      "id": "node/8151229225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229226",
+        "addr:full": "BBA,BCA,MCA,BA, B.Com, Online Admission in Delhi, Gurudwara Rd, near Oxford School, Block C, Vikaspuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Online Admission in MBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07206,
+          28.6386438
+        ]
+      },
+      "id": "node/8151229226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229227",
+        "addr:full": "Block 17, Block 5, Subhash Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sanjay P T College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1125487,
+          28.6380347
+        ]
+      },
+      "id": "node/8151229227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229228",
+        "addr:full": "Baprola, Bapraula Extension, Baprola, Delhi,",
+        "amenity": "college",
+        "name": "Delhi College of Vocational Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.011689,
+          28.6367393
+        ]
+      },
+      "id": "node/8151229228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229229",
+        "addr:full": "D Block, Block D, DDA Market, Vikaspuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Mbbs Colleges in India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0633945,
+          28.636463
+        ]
+      },
+      "id": "node/8151229229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229230",
+        "addr:full": "2, Bahadur Shah Zafar Marg, Maulana Azad Medical College Campus, Balmiki Basti, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Maulana Azad Medical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2400709,
+          28.6357398
+        ]
+      },
+      "id": "node/8151229230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229231",
+        "addr:full": "30, 30, Block 85, DIZ Area, Gole Market, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Lady Hardinge Medical College & Associate Hospital Residential Complex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2095011,
+          28.6357266
+        ]
+      },
+      "id": "node/8151229231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229232",
+        "addr:full": "B 99, Ganesh Nagar, Tilak Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Professional academy of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0904189,
+          28.6349514
+        ]
+      },
+      "id": "node/8151229232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229233",
+        "addr:full": "114, 1st Floor, Antriksh Bhawan, Below PARIKRAMA, 22 KG Marg, Opp British Council, Block H, Connaught Place, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "BHMS Switzerland India Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2187899,
+          28.6347857
+        ]
+      },
+      "id": "node/8151229233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229234",
+        "addr:full": "D-76, Pocket C, Okhla Phase I, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Vidya Topa Institute of Professional Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.279033,
+          28.524699
+        ]
+      },
+      "id": "node/8151229234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229235",
+        "addr:full": "Opp. Air Force Station, Bani Camp, Main Najafgarh - Nangloi Road, Najafgarh, Ram Nagar, Baprola, Delhi,",
+        "amenity": "college",
+        "name": "Sant Hari Dass College of Higher Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.004131,
+          28.6347476
+        ]
+      },
+      "id": "node/8151229235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229236",
+        "addr:full": "C-604 Shaheed Bhagat Singh, Road, Lady Hardinge Medical College, DIZ Area, Connaught Place, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Lady Hardinge Medical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2125679,
+          28.634208
+        ]
+      },
+      "id": "node/8151229236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229237",
+        "addr:full": "M Block, Block M, Vikaspuri, Delhi,",
+        "amenity": "college",
+        "name": "Ramakrishna Teachers Training Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0752444,
+          28.6341355
+        ]
+      },
+      "id": "node/8151229237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229238",
+        "addr:full": "Pusa, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Pusa Institute Of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.167847,
+          28.6340551
+        ]
+      },
+      "id": "node/8151229238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229239",
+        "addr:full": "Pusa, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Institute of Basic Business Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1687121,
+          28.633263
+        ]
+      },
+      "id": "node/8151229239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229240",
+        "addr:full": "New Krishna Park, Site- 3, Block M, Vikaspuri, Delhi,",
+        "amenity": "college",
+        "name": "ICEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.076265,
+          28.633156
+        ]
+      },
+      "id": "node/8151229240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229241",
+        "addr:full": "92, Bangla Sahib Rd, Sector 4, Gole Market, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sahni Commercial College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.208625,
+          28.6328165
+        ]
+      },
+      "id": "node/8151229241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229242",
+        "addr:full": "SPA Delhi, Archi block Rd, Balmiki Basti, Vikram Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Department of Industrial Design"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2456294,
+          28.6327562
+        ]
+      },
+      "id": "node/8151229242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229243",
+        "addr:full": "Direct B.Tech Admission in Delhi, M-78, Block M, Connaught Place, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "KCC ITM - Engineering College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2227726,
+          28.6324929
+        ]
+      },
+      "id": "node/8151229243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229244",
+        "addr:full": "K-597, Dr.Ambedkar Nagar, Block K, Sector 5, Dakshinpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Government Girls College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2390784,
+          28.5207415
+        ]
+      },
+      "id": "node/8151229244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229245",
+        "addr:full": "Dr KS Krishnan Marg, Pusa, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Water Technology Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1613007,
+          28.6320913
+        ]
+      },
+      "id": "node/8151229245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229246",
+        "addr:full": "G-8 Area, Press Colony, Rajouri Garden, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Guru Tegh Bahadur Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1164821,
+          28.6317868
+        ]
+      },
+      "id": "node/8151229246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229247",
+        "addr:full": "New Delhi, South, Dev Prakash Shastri Marg, Pusa, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Farm Machinery Testing Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1524096,
+          28.6315282
+        ]
+      },
+      "id": "node/8151229247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229248",
+        "addr:full": "Connaught Place, Hanuman Road Area, Connaught Place, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Arya Group Of Colleges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2166672,
+          28.6314512
+        ]
+      },
+      "id": "node/8151229248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229249",
+        "addr:full": "Delhi, 3rd Floor, Gulab Bhawan, 6, Bahadur Shah Zafar Marg, Vikram Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "International College of Financial Planning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2414388,
+          28.6314051
+        ]
+      },
+      "id": "node/8151229249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229250",
+        "addr:full": "G-8 Area, Press Colony, Rajouri Garden, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Guru Tegh Bahadur Polytechnic Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1158638,
+          28.6312201
+        ]
+      },
+      "id": "node/8151229250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229251",
+        "addr:full": "Near, Shaheed Rajguru Marg, A-Block, Vikaspuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Indira Gandhi Institute of Physical Education & Sports Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0718283,
+          28.6311033
+        ]
+      },
+      "id": "node/8151229251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229252",
+        "addr:full": "4, Vishnu Digamber Marg, Mata Sundari Railway Colony, Mandi House, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Pt. Deendayal Upadhyaya National Institute For Persons with Physical Disabilities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2390142,
+          28.6308946
+        ]
+      },
+      "id": "node/8151229252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229253",
+        "addr:full": "Indraprastha Estate, Ring Road, Mahatma Gandhi Marg, Bahadur Shah Zafar Marg, Vikram Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Indian Institute of Public Administration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2456446,
+          28.6297897
+        ]
+      },
+      "id": "node/8151229253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229254",
+        "addr:full": "F-13, Pocket F, Okhla Phase I, Okhla Industrial Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "NDIM OKHLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2806487,
+          28.5194013
+        ]
+      },
+      "id": "node/8151229254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229255",
+        "addr:full": "B-57, 3rd Floor, New Krishna Park, Vikas Puri Near Janakpuri West Metro Station Opposite Pillar no. 605, Block-B, Shankar Garden, Vikaspuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Elina Institute of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.075272,
+          28.629029
+        ]
+      },
+      "id": "node/8151229255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229256",
+        "addr:full": "GF-20, Jyoti Shikhar, Kirti Shikar, Janakpuri District Center, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "RB Institute Of Management and Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08186,
+          28.628915
+        ]
+      },
+      "id": "node/8151229256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229257",
+        "addr:full": "4, Block B, Beside State Bank Of India, Indraprashta Marg, IP Estate, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "School of Planning and Architecture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2459523,
+          28.628641
+        ]
+      },
+      "id": "node/8151229257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229258",
+        "addr:full": "2, Bahadur Shah Zafar Marg, IP Estate, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "The Institution of Engineers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2417566,
+          28.627375
+        ]
+      },
+      "id": "node/8151229258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229259",
+        "addr:full": "B-256, G.F., Hari Nagar ,Clock Tower, Nanak Pura, Hari Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Pavinder Kumar Issar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1139333,
+          28.6267708
+        ]
+      },
+      "id": "node/8151229259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229260",
+        "addr:full": "University Of Delhi, Sikandra Rd, Mandi House, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Lady Irwin College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2364512,
+          28.6262943
+        ]
+      },
+      "id": "node/8151229260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229261",
+        "addr:full": "NEW DELHI, Ram Manohar Lohia Hospital, Type III, Presidents Estate, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "PGIMER & Dr RML Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.199078,
+          28.6254959
+        ]
+      },
+      "id": "node/8151229261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229262",
+        "addr:full": "A-34, Pankha Road Colony Uttam Nagar, Near East Metro Station,, Block D, JJ Colony, Uttam Nagar, Delhi,",
+        "amenity": "college",
+        "name": "Rajiv Gandhi Paramedical Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06634,
+          28.624836
+        ]
+      },
+      "id": "node/8151229262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229263",
+        "addr:full": "H.N-39, Block C, Milap Nagar, East Uttam Nagar Near Sharsh Hospital, Gandhi Medicos, Block B, Milap Nagar, Uttam Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "WINSOFT EDUCATION (WET-INSTITUTE)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0649178,
+          28.6237438
+        ]
+      },
+      "id": "node/8151229263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229264",
+        "addr:full": "H-No. C39, Milap Nagar, Uttam Nagar, East Uttam Nagar Metro Station, Near Gandhi Medicos, Block C, Ram Datt Enclave, Uttam Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "DCRSUT B.Ed Admission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064989,
+          28.623141
+        ]
+      },
+      "id": "node/8151229264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229265",
+        "addr:full": "Dwarka More, Polo Garden Rd, Jai Bharat Encl, Bhagwati Garden, Nawada, Delhi,",
+        "amenity": "college",
+        "name": "Vidhya Bharti College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.032577,
+          28.622222
+        ]
+      },
+      "id": "node/8151229265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229266",
+        "addr:full": "Dwarka Mor Metro Station, Gate No-2, Piller No-775, Goverdhan Park, Block E, Param Puri, Uttam Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sirifort College of Computer Technology And Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0558233,
+          28.6217627
+        ]
+      },
+      "id": "node/8151229266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229267",
+        "addr:full": "B-1/628, Janakpuri Near Janakpuri East Metro Station (Exit Gate no: 3) in front Pillar no 571, Block C2B, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Teacher Training College in Janakpuri | Delhi Women College(DWC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0882695,
+          28.6217426
+        ]
+      },
+      "id": "node/8151229267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229268",
+        "addr:full": "C-4, Dada Satram Mamtani Marg, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Bharati College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0937778,
+          28.6216832
+        ]
+      },
+      "id": "node/8151229268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229269",
+        "addr:full": "4, C Block Janakpuri Road, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Maharaja Surajmal Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0919902,
+          28.6214181
+        ]
+      },
+      "id": "node/8151229269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229270",
+        "addr:full": "Jahanpanah City Forest, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Gate Number 6 Jamia Hamdard University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2534575,
+          28.5176582
+        ]
+      },
+      "id": "node/8151229270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229271",
+        "addr:full": "KG Marg, Copernicus Marg, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Bharatiya Vidya Bhavan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2277929,
+          28.620474
+        ]
+      },
+      "id": "node/8151229271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229272",
+        "addr:full": "A-10, Dwarka More, Polo Garden Road, Bhagwati Garden, Nawada, Roshan Garden, Bhagwati Garden, Nawada, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Degree College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0324924,
+          28.6195543
+        ]
+      },
+      "id": "node/8151229272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229273",
+        "addr:full": "Naraina Village, Naraina, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "B.Ed Haryana Admission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1369979,
+          28.6191453
+        ]
+      },
+      "id": "node/8151229273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229274",
+        "addr:full": "N-67, Vijay Vihar Mangal Bazar Chowk, near Sanatan Dharm mandir, Vijay Vihar, Block D, Uttam Nagar East, Uttam Nagar, Delhi,",
+        "amenity": "college",
+        "name": "Subhash College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0640016,
+          28.6190347
+        ]
+      },
+      "id": "node/8151229274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229275",
+        "addr:full": "WZ-1390/9 Opp Janak puri D Block, Pankha Rd, C4 D Block, Nangal Raya, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Delhi Degree College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0823598,
+          28.6156177
+        ]
+      },
+      "id": "node/8151229275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229276",
+        "addr:full": "D-29, Janakpuri Institutional Area, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "IITM Janakpuri | Institute of Information Technology & Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1020075,
+          28.61076
+        ]
+      },
+      "id": "node/8151229276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229277",
+        "addr:full": "Azad Hind Fauj Marg, Dwarka Sector-3, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Manfacturing Processes And Automation Engineering And Instrumentation And Control Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.037826,
+          28.6105035
+        ]
+      },
+      "id": "node/8151229277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229278",
+        "addr:full": "Najafgarh Dhansa Rd, Gopal Nagar Extension, Najafgarh, Delhi,",
+        "amenity": "college",
+        "name": "R. C. Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9707748,
+          28.6104611
+        ]
+      },
+      "id": "node/8151229278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229279",
+        "addr:full": "Block D, Hamdard Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "School of Open and Distance Learning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.251943,
+          28.5163481
+        ]
+      },
+      "id": "node/8151229279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229280",
+        "addr:full": "53-54, Sewa Marg, Janakpuri Institutional Area, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Management Education & Research Institute (MERI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10281,
+          28.610051
+        ]
+      },
+      "id": "node/8151229280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229281",
+        "addr:full": "D-21, Janakpuri Institutional Area, Janakpuri, Janakpuri Institutional Area, Janakpuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Indraprastha Institute Of Technology And Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1018188,
+          28.6100087
+        ]
+      },
+      "id": "node/8151229281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229282",
+        "addr:full": "Near Police Station, Thana Road, Najafgarh, Todarmal Colony, Najafgarh, Delhi,",
+        "amenity": "college",
+        "name": "Sai Nursing Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.983115,
+          28.6093718
+        ]
+      },
+      "id": "node/8151229282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229283",
+        "addr:full": "Najafgarh Dauralla Rd, Nanda Enclave, Block B, New Gopal Nagar, Najafgarh, Delhi,",
+        "amenity": "college",
+        "name": "Balaji College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.973889,
+          28.609173
+        ]
+      },
+      "id": "node/8151229283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229284",
+        "addr:full": "Brar Square, Near Base Hospital, Delhi Cantt, Kirby Place, Delhi Cantonment, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Army College of Medical Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1388655,
+          28.6088183
+        ]
+      },
+      "id": "node/8151229284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229285",
+        "addr:full": "G-Block, Som Bazar Rd, Block B, Raja Puri, Matiala, Delhi,",
+        "amenity": "college",
+        "name": "Delhi College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.056648,
+          28.607416
+        ]
+      },
+      "id": "node/8151229285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229286",
+        "addr:full": "Hifaa WZ 1671 Nangal Raya, Jail, Nangal, Nangal Village, Delhi Cantonment, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Hilton Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.114717,
+          28.607081
+        ]
+      },
+      "id": "node/8151229286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229287",
+        "addr:full": "A-250,First Floor,Mahavir Enclave Part-2, Street No-08, Near MCD Primary School, Janak Puri, Mahavir Enclave Part 2, Mahavir Enclave Part 3, Mahavir Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sai College of Educations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.075785,
+          28.606779
+        ]
+      },
+      "id": "node/8151229287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229288",
+        "addr:full": "Opp. Metro Pillar 885, Bharat Vihar Rd, Near Metro, Sector 14 Dwarka, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Khyati Memorial Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0225706,
+          28.6066007
+        ]
+      },
+      "id": "node/8151229288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229289",
+        "addr:full": "Azad Hind Fauj Marg, Phase 1, Dwarka Sector-3, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Deen Dayal Upadhyaya College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0379956,
+          28.6051249
+        ]
+      },
+      "id": "node/8151229289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229290",
+        "addr:full": "A-19, IGNOU Main Rd, Block D, Paryavaran Complex, Saket, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Indian Institute Of Ecology And Environment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2045007,
+          28.5146306
+        ]
+      },
+      "id": "node/8151229290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229291",
+        "addr:full": "Pandara Flats Gate, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "B.ed Crsu Jind Admission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2278068,
+          28.6034726
+        ]
+      },
+      "id": "node/8151229291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229292",
+        "addr:full": "29/12,Vijay enclave, Palam - Dabri Marg, opp.jindal publice school, Ch Harphool Singh Market, Naveen Kunj Society, Mahavir Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Indraprastha skill Initiative pvt. ltd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825415,
+          28.6026573
+        ]
+      },
+      "id": "node/8151229292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229293",
+        "addr:full": "E-288, Gali, 3rd, Street Number 74, Block C-2, Nanda Block, Mahavir Enclave Part 3, Uttam Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "JEE AME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.071096,
+          28.602647
+        ]
+      },
+      "id": "node/8151229293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229294",
+        "addr:full": "6, Tees January Marg, Janpath Road Area, Motilal Nehru Marg Area, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "National Defence College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2150761,
+          28.6024159
+        ]
+      },
+      "id": "node/8151229294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229295",
+        "addr:full": "83, Palam Dabri Marg, Block RZ, Sector 1A Dwarka, Mahavir Enclave, Ch Harphool Singh Market, Sector 1A Dwarka, Mahavir Enclave, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sulabh Vocational Training Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0833185,
+          28.6019943
+        ]
+      },
+      "id": "node/8151229295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229296",
+        "addr:full": "Near Iskcon Temple, Sector 13, Dwarka, Sector 13, Dwarka, Delhi,",
+        "amenity": "college",
+        "name": "C.B.S.M. Delhi Handicapped Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0374362,
+          28.6013759
+        ]
+      },
+      "id": "node/8151229296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229297",
+        "addr:full": "Pocket 2, Sector 2 Dwarka, Dwarka, Pocket 2, Sector 2 Dwarka, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Bhaskaracharya College Of Applied Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0683637,
+          28.6009593
+        ]
+      },
+      "id": "node/8151229297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229298",
+        "addr:full": "686/A Indra Park, Main Road, Sagarpur Palam Rd, Indira Park, Manglapuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "AICT IT & Management College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.100209,
+          28.59696
+        ]
+      },
+      "id": "node/8151229298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229299",
+        "addr:full": "Lal Bahadur Shastri Marg, Near Hotel Oberoi, Delhi Golf Club, Golf Links, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Durgabai Deshmukh College of Special Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2398521,
+          28.5949138
+        ]
+      },
+      "id": "node/8151229299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229300",
+        "addr:full": "Sector 16 C, Kakrola, Delhi,",
+        "amenity": "college",
+        "name": "University School of Architecture and Planning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0195051,
+          28.5945115
+        ]
+      },
+      "id": "node/8151229300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229301",
+        "addr:full": "14, 2nd Floor, Mehrauli - Badarpur Rd, Khanpur Extension, Khanpur, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Ranu P.T. College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.234135,
+          28.513752
+        ]
+      },
+      "id": "node/8151229301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229302",
+        "addr:full": "Bapu dham, Chanakyapuri, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Jesus and Mary College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1775572,
+          28.594065
+        ]
+      },
+      "id": "node/8151229302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229303",
+        "addr:full": "Shivshakti Plaza Mahavir Enclave, L-1, Main, Palam - Dabri Marg, Opposite Shivwani School, Mahavir Enclave I, Mahavir Enclave Part 1, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "RIG Institute of Hotel Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0802096,
+          28.5940081
+        ]
+      },
+      "id": "node/8151229303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229304",
+        "addr:full": "deendarpur, Najafgarh Rd, Delhi Teachers Colony, Dindarpur, Najafgarh, Delhi,",
+        "amenity": "college",
+        "name": "Delhi Teacher Training College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.992411,
+          28.592978
+        ]
+      },
+      "id": "node/8151229304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229305",
+        "addr:full": "412, Old Willingdon Camp, Lok Kalyan Marg, Safdarjangs Tomb, Race Course, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Air Force Vocational College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2018736,
+          28.591667
+        ]
+      },
+      "id": "node/8151229305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229306",
+        "addr:full": "Bansal Plaza, Sec-6 Market, Sector 6 Dwarka, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Global Institute Of Management And Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05866,
+          28.591484
+        ]
+      },
+      "id": "node/8151229306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229307",
+        "addr:full": "Dhaula Kuan Enclave I, Dhaula Kuan, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Atma Ram Sanatan Dharma College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.167563,
+          28.591266
+        ]
+      },
+      "id": "node/8151229307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229308",
+        "addr:full": "Pragati Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Dyal Singh College (Evening)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2319679,
+          28.5906297
+        ]
+      },
+      "id": "node/8151229308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229309",
+        "addr:full": "2, Lodhi Rd, Gokalpuri, Institutional Area, Lodi Colony, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Institution Of Electronics and Telecommunication Engineers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2280388,
+          28.5906164
+        ]
+      },
+      "id": "node/8151229309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229310",
+        "addr:full": "Block D, Hamdard Nagar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Rufaida college of nursing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2504192,
+          28.5133488
+        ]
+      },
+      "id": "node/8151229310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229311",
+        "addr:full": "Lodhi Rd, Pragati Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Dyal Singh College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2302711,
+          28.5905637
+        ]
+      },
+      "id": "node/8151229311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229312",
+        "addr:full": "Dhaula Kuan Enclave I, Dhaula Kuan, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Sri Venkateswara College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.168108,
+          28.5894463
+        ]
+      },
+      "id": "node/8151229312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229313",
+        "addr:full": "11th Floor, Paryavaran Bhavan, CGO Complex, Lodhi Road, CGO Complex, Pragati Vihar, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Seekho Aur Kamao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2360187,
+          28.5891907
+        ]
+      },
+      "id": "node/8151229313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229314",
+        "addr:full": "Plot No 3, Sector 18A, Sector 18, Phase-II, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "International Institute Of Health Management Research"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0369911,
+          28.5875647
+        ]
+      },
+      "id": "node/8151229314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229315",
+        "addr:full": "Sector 11, Opposite Metro Station, Dwarka, Sector 11 Dwarka, Dwarka, Delhi,",
+        "amenity": "college",
+        "name": "Banarsidas Chandiwala Institute of Professional Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0491194,
+          28.5875181
+        ]
+      },
+      "id": "node/8151229315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229316",
+        "addr:full": "Block F - 661, Dwarka Sector 7, Block H, Palam Extension, Part 1, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "INSTITUTE OF PARAMEDICAL SCIENCE AND MANAGEMENT (IPSM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0720902,
+          28.5863438
+        ]
+      },
+      "id": "node/8151229316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229317",
+        "addr:full": "Dwarka, near Ramphal Chowk Road, Block C, Sector 7 Dwarka, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Shiksha Bharati College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.068788,
+          28.5861586
+        ]
+      },
+      "id": "node/8151229317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229318",
+        "addr:full": "Block E, Palam Extension, Palam, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Abhi Institute Of Hotel Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.072096,
+          28.5845227
+        ]
+      },
+      "id": "node/8151229318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229319",
+        "addr:full": "Dwarka Sector 9 Rd, Dwarka Sector 9, Dwarka, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Integrated Institute Of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0637777,
+          28.5824959
+        ]
+      },
+      "id": "node/8151229319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229320",
+        "addr:full": "Jangpura Extension, B-31, Mannu Marg, Block C, Jungpura Extension, Jangpura, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Suresh Commercial College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2462664,
+          28.5795636
+        ]
+      },
+      "id": "node/8151229320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229321",
+        "addr:full": "55A, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi",
+        "amenity": "college",
+        "name": "Laxmi Bai Batra College Of Nursing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2448073,
+          28.5133031
+        ]
+      },
+      "id": "node/8151229321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151229322",
+        "addr:full": "Mithapur Extension, Mithapur, New Delhi, Haryana",
+        "amenity": "college",
+        "name": "D2c Distance Education College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3229084,
+          28.4930144
+        ]
+      },
+      "id": "node/8151229322"
+    }
+  ]
+}
